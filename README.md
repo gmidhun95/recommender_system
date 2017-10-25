@@ -1,3 +1,4 @@
 # recommender_system
 basics of recommendation systems
-chinwen
+
+Authors: chinwen, Jonas Han, 
