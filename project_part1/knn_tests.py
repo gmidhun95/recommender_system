@@ -2,6 +2,7 @@ import pandas as pd
 from surprise import prediction_algorithms as pa
 from surprise import Dataset, Reader, GridSearch
 from surprise import evaluate, print_perf
+import datetime
 
 data = pd.read_csv('./movielens_small/ratings.csv')
 df = pd.DataFrame(data)
@@ -22,9 +23,13 @@ print_perf(perf)
 similarities = ['cosine', 'msd', 'pearson', 'pearson_baseline']
 user_based = [True, False]
 
+start_time = ('Timestamp: {:%Y-%b-%d %H:%M:%S}'.format(datetime.datetime.now()))
 sim_options = {'name': similarities, 'user_based': user_based}
 param_grid = {'k': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], 'min_k': [5], 'sim_options': sim_options}
 grid_search = GridSearch(pa.KNNBasic, param_grid=param_grid, measures=['MAE', 'RMSE', 'FCP'])
 grid_search.evaluate(dataset)
 results_df = pd.DataFrame.from_dict(grid_search.cv_results)
-results_df.to_csv("Results.csv")
+results_df.to_csv("KNNBasic_Results.csv")
+end_time = ('Timestamp: {:%Y-%b-%d %H:%M:%S}'.format(datetime.datetime.now()))
+print "Start Time: ", start_time
+print "End Time: ", end_time
