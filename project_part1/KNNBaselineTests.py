@@ -107,4 +107,4 @@ for i in range(len(surprise_datasets)):
             print "Time Difference: ", (end_time-start_time)
 
 results_df = pd.DataFrame(results_dict)
-results_df.to_csv("250k_to_1M_Results.csv")
+results_df.to_csv("100k_to_1M_Results.csv")
