@@ -1,0 +1,5 @@
+Algorithm|Best_Parameters|Grid_Search_Best_Accuracy(RMSE)|Unbiased_Accuracy(RMSE)
+KNNBasic|{'sim_options': {'name': 'msd', 'user_based': False}, 'k': 40, 'min_k': 5}|0.990718028313|0.96899782698417969
+KNNWithMeans|{'sim_options': {'name': 'pearson_baseline', 'user_based': False}, 'k': 50, 'min_k': 5}|0.939079136288|0.91831765436668245
+KNNWithZScore|{'sim_options': {'name': 'pearson_baseline', 'user_based': False}, 'k': 50, 'min_k': 5}|0.935620684677|0.93329486881966095
+KNNBaseline|{'sim_options': {'name': 'pearson_baseline', 'user_based': False}, 'k': 50, 'min_k': 5}|0.929931954255|0.91349864307782735
