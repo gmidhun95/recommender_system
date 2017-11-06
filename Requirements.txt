@@ -1,3 +1,0 @@
-python 3.6
-pandas 20.3
-scikit-surpise 1.0.4
