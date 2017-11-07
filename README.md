@@ -7,7 +7,7 @@ We achieved this by implementing two collaborative filtering recommender systems
 Authors: Midhun Gundapuneni, Jonas Han, Chi-Wen Chang, Sithal Nimmagadda
 
 
-Write-up: 
+Write-up: Personalization-mini-project.docx
 
 
 
