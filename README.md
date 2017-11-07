@@ -1,6 +1,3 @@
-# recommender_system
-basics of recommendation systems
-
 In this project, our goal was to utilize the Movielens datasets and build a system that recommended movies to users' behaviors.
 We achieved this by implementing two collaborative filtering recommender systems (one memory-based & one model-based) using the scikit-surprise library in Python.
 
