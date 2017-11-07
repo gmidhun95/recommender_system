@@ -86,8 +86,4 @@ Plots
 -----
 KNN_Performance_Plots_Revised.ipynb - All plots associated with analyzing performance of KNN algorithms.
 
-
-Combined-Plots:
-------------------------------
-
 revised_plot.ipynb: The source code to compare the model-based SVD algo and memory-based algorithms with respect to performance and time
