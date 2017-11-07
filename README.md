@@ -26,7 +26,7 @@ Therefore, we would recommend utilizing the SVD algorithm during actual implemen
 
 Documentation
 -------------
-Notebook: Report.ipynb
+Notebook: Report.ipynb  
 Word: Personalization-mini-project_v1.docx
 
 
