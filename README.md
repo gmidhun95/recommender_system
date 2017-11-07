@@ -24,9 +24,10 @@ We were able to determine that the SVD (model-based) algorithm outperformed the 
 Therefore, we would recommend utilizing the SVD algorithm during actual implementation.
 
 
-Write-up
+Write-up :
 --------
-
+documentatiom: Personalization-mini-project_v1.docx
+markup/notebook: project_part1/Report.ipynb
 
 
 

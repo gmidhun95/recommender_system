@@ -87,6 +87,7 @@ dependencies:
 - sqlite=3.20.1=h6d8b0f3_1
 - ssl_match_hostname=3.5.0.1=py27h4ec10b9_2
 - subprocess32=3.2.7=py27h373dbce_0
+- tabulate=0.7.5=py27_0
 - terminado=0.6=py27h4be8df9_0
 - testpath=0.3.1=py27hc38d2c4_0
 - tk=8.6.7=h5979e9b_1
