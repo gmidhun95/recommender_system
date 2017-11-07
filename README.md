@@ -6,15 +6,15 @@ In this project, our goal was to utilize the Movielens datasets and build a syst
 We achieved this by implementing two popular collaborative filtering models (one memory-based & one model-based) using the scikit-surprise library in Python.
 We chose the optimal memory-based and model-based systems by systematically testing the following combinations:
 
-Memory-based
--Algorithm (i.e. KNN Basic, KNN With Means, etc.)
--Item-based vs. User-based
--Similarity Metric (i.e. Pearson Correlation, Cosine Similarity, etc.)
--Neighborhood Size (i.e. k=10, 20, 30, etc.)
+Memory-based  
+-Algorithm (i.e. KNN Basic, KNN With Means, etc.)  
+-Item-based vs. User-based  
+-Similarity Metric (i.e. Pearson Correlation, Cosine Similarity, etc.)  
+-Neighborhood Size (i.e. k=10, 20, 30, etc.)  
 
-Model-based
--Algorithm (i.e. SVD, NMF)
--Parameters (i.e. number of latent factors, etc.)
+Model-based  
+-Algorithm (i.e. SVD, NMF)  
+-Parameters (i.e. number of latent factors, etc.)  
 
 From these combinations, we were able to determine a single best memory-based and a single best model-based algorithm.
 Note: Performance of each model variation was primarily gauged by the root-mean-squred error (RMSE) accuracy metric. However, we also considered other accuracy metrics (i.e. MAE, precision, recall) when we made our final decision.
@@ -23,8 +23,10 @@ After finding the optimal combination of parameters for each model, we ran our m
 We were able to determine that the SVD (model-based) algorithm outperformed the KNN (memory-based) algorithm in terms of RMSE, MAE, precision, and run-time.
 Therefore, we would recommend utilizing the SVD algorithm during actual implementation.
 
+
 Write-up
 --------
+
 
 
 
@@ -83,9 +85,5 @@ scale_svd_results.csv - Results for evaluating performance of our chosen model-b
 Plots
 -----
 KNN_Performance_Plots_Revised.ipynb - All plots associated with analyzing performance of KNN algorithms.
-
-
-Combined-Plots:
-------------------------------
 
 revised_plot.ipynb: The source code to compare the model-based SVD algo and memory-based algorithms with respect to performance and time
