@@ -29,7 +29,7 @@ Documentation
 Report.ipynb
 
 
-### **Please note all files below are within the "recommender_system\project_part1" directory.**
+### ***Please note all files below are within the "recommender_system\project_part1" directory.**
 
 Memory-based Algorithms + Tests
 -------------------------------
