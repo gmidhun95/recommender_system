@@ -2,7 +2,7 @@ Authors: Midhun Gundapuneni, Jonas Han, Chin-Wen Chang, Sithal Nimmagadda
 
 Overview
 --------
-In this project, our goal was to utilize the Movielens datasets and build a system that recommended movies based on users' behaviors.
+In this project, our goal was to utilize the MovieLens datasets and build a system that recommended movies based on users' behaviors.
 We achieved this by implementing two popular collaborative filtering models (one memory-based & one model-based) using the scikit-surprise library in Python.
 We chose the optimal memory-based and model-based systems by systematically testing the following combinations:
 
