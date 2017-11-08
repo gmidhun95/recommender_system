@@ -21,16 +21,12 @@ Note: Performance of each model variation was primarily gauged by the root-mean-
 
 After finding the optimal combination of parameters for each model, we ran our models again on the larger datasets to evaluate how performance changed as a function of data size.
 We were able to determine that the SVD (model-based) algorithm outperformed the KNN (memory-based) algorithm in terms of RMSE, MAE, precision, and run-time.
-Therefore, we would recommend utilizing the SVD algorithm during actual implementation.
 
+### ***Please note all files below are within the "recommender_system\project_part1" directory.**
 
 Documentation
 -------------
 Notebook: Report.ipynb  
-Word: Personalization-mini-project_v1.docx
-
-
-### ***Please note all files below are within the "recommender_system\project_part1" directory.**
 
 Memory-based Algorithms + Tests
 -------------------------------
