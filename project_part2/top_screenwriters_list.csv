@@ -1,0 +1,980 @@
+Rank,Person,Total Gross,Number of Movies,Average Gross,Highest Gross Movie,Gross
+1,George Lucas,"$3,392.2",16,$212.0,The Phantom Menace,$474.5
+2,Terry Rossio,"$2,567.6",17,$151.0,Dead Man's Chest,$423.3
+3,Ted Elliott,"$2,503.5",16,$156.5,Dead Man's Chest,$423.3
+4,Andrew Stanton,"$2,469.4",9,$274.4,Finding Dory,$486.3
+5,Steve Kloves,"$2,413.7",12,$201.1,Harry Potter / Deathly Hallows (P2),$381.0
+6,David Koepp,"$2,335.4",23,$101.5,Spider-Man,$403.7
+7,David S. Goyer,"$2,249.8",17,$132.3,The Dark Knight,$534.9
+8,Christopher Nolan,"$2,228.2",10,$222.8,The Dark Knight,$534.9
+9,Lawrence Kasdan,"$2,164.8",15,$144.3,Star Wars: The Force Awakens,$936.7
+10,Philippa Boyens,"$2,114.6",8,$264.3,Return of the King,$377.8
+11,James Cameron,"$2,108.3",9,$234.3,Avatar,$760.5
+12,Fran Walsh,"$2,072.4",11,$188.4,Two Towers,$342.6
+13,Michael Arndt,"$1,925.3",5,$385.1,Star Wars: The Force Awakens,$936.7
+14,Ken Daurio,"$1,919.0",10,$191.9,The Secret Life of Pets,$368.4
+15,Cinco Paul,"$1,919.0",10,$191.9,The Secret Life of Pets,$368.4
+16,Alex Kurtzman,"$1,739.7",10,$174.0,Transformers 2,$402.1
+17,Roberto Orci,"$1,739.7",10,$174.0,Transformers 2,$402.1
+18,Akiva Goldsman,"$1,738.5",15,$115.9,I Am Legend,$256.4
+19,John Hughes,"$1,698.4",32,$53.1,Home Alone,$285.8
+20,Stephen McFeely,"$1,640.9",10,$164.1,Captain America 3,$408.1
+21,Christopher Markus,"$1,640.9",9,$182.3,Captain America 3,$408.1
+22,Pete Docter,"$1,600.8",6,$266.8,Inside Out,$356.5
+23,Tony Gilroy,"$1,597.1",13,$122.9,Rogue One,$532.2
+24,J.J. Abrams,"$1,560.0",9,$173.3,Star Wars: The Force Awakens,$936.7
+25,Chris Sanders,"$1,530.3",7,$218.6,Lion King,$422.8
+26,Joss Whedon,"$1,513.0",10,$151.3,The Avengers,$623.4
+27,John Lasseter,"$1,451.0",6,$241.8,Toy Story 3,$415.0
+28,John Logan,"$1,443.4",15,$96.2,Skyfall,$304.4
+29,Ehren Kruger,"$1,438.2",12,$119.9,Transformers 2,$402.1
+30,Melissa Rosenberg,"$1,428.9",6,$238.1,The Twilight Saga: Eclipse,$300.5
+31,M. Night Shyamalan,"$1,407.0",13,$108.2,Sixth Sense,$293.5
+32,Sylvester Stallone,"$1,404.0",22,$63.8,Rambo: First Blood Part II,$150.4
+33,Jonathan Aibel,"$1,392.0",8,$174.0,Alvin and the Chipmunks 2,$219.6
+34,Glenn Berger,"$1,392.0",8,$174.0,Alvin and the Chipmunks 2,$219.6
+35,Linda Woolverton,"$1,337.1",7,$191.0,Lion King,$422.8
+36,Simon Kinberg,"$1,274.5",10,$127.5,X-Men: The Last Stand,$234.4
+37,Steven Zaillian,"$1,233.7",16,$77.1,Mission: Impossible,$181.0
+38,Jeff Nathanson,"$1,225.6",10,$122.6,Indiana Jones 4,$317.1
+39,Chris Morgan,"$1,224.0",8,$153.0,Furious 7,$353.0
+40,Alvin Sargent,"$1,209.9",13,$93.1,Spider-Man 2,$373.6
+41,Amanda Silver,"$1,186.4",6,$197.7,Jurassic World,$652.3
+42,Zak Penn,"$1,186.4",10,$118.6,The Avengers,$623.4
+43,Guillermo del Toro,"$1,173.7",13,$90.3,The Hobbit,$303.0
+44,Robert Mark Kamen,"$1,099.3",18,$61.1,Taken,$145.0
+45,Rick Jaffa,"$1,098.4",5,$219.7,Jurassic World,$652.3
+46,Harold Ramis,"$1,089.1",16,$68.1,Ghostbusters,$242.2
+47,Chris Weitz,"$1,088.8",7,$155.5,Rogue One,$532.2
+48,David N. Weiss,"$1,084.5",11,$98.6,Shrek 2,$441.2
+49,Steve Oedekerk,"$1,063.2",12,$88.6,Bruce Almighty,$242.8
+50,J. David Stem,"$1,045.7",9,$116.2,Shrek 2,$441.2
+51,James Gunn,"$1,027.7",8,$128.5,Guardians of the Galaxy 2,$389.8
+52,Adam Sandler,"$1,020.4",11,$92.8,Hotel Transylvania 2,$169.7
+53,Brian Helgeland,"$1,015.8",20,$50.8,Salt,$118.3
+54,Dan Fogelman,"$1,013.5",9,$112.6,Cars,$244.1
+55,Scott Frank,$983.1,15,$65.5,Logan,$226.3
+56,Tim Herlihy,$957.9,10,$95.8,Big Daddy,$163.5
+57,Neal Purvis,$956.7,9,$106.3,Skyfall,$304.4
+58,Robert Wade,$956.7,9,$106.3,Skyfall,$304.4
+59,Luc Besson,$919.7,28,$32.8,Taken,$145.0
+60,Adam McKay,$894.3,8,$111.8,Ant-Man,$180.2
+61,David Ayer,$890.2,10,$89.0,Suicide Squad,$325.1
+62,Bob Peterson,$880.3,3,$293.4,Finding Nemo,$380.8
+63,Tyler Perry,$862.8,17,$50.8,Madea Goes to Jail,$90.5
+64,Mark Bomback,$832.4,9,$92.5,Dawn of the Planet of the Apes,$208.5
+65,Eric Roth,$827.1,14,$59.1,Forrest Gump,$330.3
+66,Leslie Dixon,$825.9,13,$63.5,Mrs. Doubtfire,$219.2
+67,Stuart Beattie,$818.8,8,$102.3,Dead Man's Chest,$423.3
+68,Peter Jackson,$816.5,3,$272.2,The Hobbit,$303.0
+69,Craig Mazin,$804.5,9,$89.4,The Hangover Part II,$254.5
+70,Gary Ross,$798.8,8,$99.8,The Hunger Games,$408.0
+71,Judd Apatow,$783.7,11,$71.2,Knocked Up,$148.8
+72,Nancy Meyers,$783.3,13,$60.3,Something's Gotta Give,$124.7
+73,Daniel Gerson,$780.9,3,$260.3,"Monsters, Inc.",$289.9
+74,Shane Black,$772.5,8,$96.6,Iron Man 3,$409.0
+75,Lilly & Lana Wachowski,$771.5,8,$96.4,The Matrix Reloaded,$281.6
+76,Ethan Coen,$767.4,22,$34.9,True Grit,$171.2
+77,Joel Coen,$767.4,22,$34.9,True Grit,$171.2
+78,Billy Ray,$757.3,10,$75.7,The Hunger Games,$408.0
+79,Damon Lindelof,$751.3,5,$150.3,Star Trek Into Darkness,$228.8
+80,Nick Stoller,$749.9,12,$62.5,Fun with Dick and Jane,$110.3
+81,Danny Strong,$735.5,3,$245.2,Mockingjay Part 1,$337.1
+82,Nora Ephron,$720.3,13,$55.4,Sleepless in Seattle,$126.7
+83,Peter Craig,$711.0,3,$237.0,Mockingjay Part 1,$337.1
+84,Simon Beaufoy,$708.4,10,$70.8,Catching Fire,$424.7
+85,John August,$707.5,10,$70.8,Charlie and the Chocolate Factory,$206.5
+86,Thomas Lennon & Ben Garant,$701.7,9,$78.0,Night at the Museum,$250.9
+87,Todd Phillips,$699.6,6,$116.6,The Hangover Part II,$254.5
+88,Derek Connolly,$689.7,3,$229.9,Jurassic World,$652.3
+89,Chris Terrio,$667.8,3,$222.6,Batman v Superman,$330.4
+90,Quentin Tarantino,$662.3,10,$66.2,Django Unchained,$162.8
+91,Irene Mecchi,$660.1,2,$330.0,Lion King,$422.8
+92,Jonathan M. Goldstein,$653.0,5,$130.6,Spider-Man: Homecoming,$334.2
+93,Colin Trevorrow,$652.3,1,$652.3,Jurassic World,$652.3
+94,Evan Spiliotopoulos,$644.8,5,$129.0,Beauty and the Beast,$504.0
+95,Evan Goldberg,$644.8,9,$71.6,Superbad,$121.5
+96,Don Rhymer,$642.3,10,$64.2,Rio,$143.6
+97,Stephen Chbosky,$641.7,4,$160.4,Beauty and the Beast,$504.0
+98,Ed Solomon,$639.8,12,$53.3,Men in Black,$250.7
+99,John Gatins,$636.2,9,$70.7,Kong: Skull Island,$168.1
+100,Seth Rogen,$630.4,8,$78.8,Superbad,$121.5
+101,Jon Lucas,$628.8,8,$78.6,The Hangover,$277.3
+102,Scott Moore,$628.8,8,$78.6,The Hangover,$277.3
+103,Christopher McQuarrie,$620.6,8,$77.6,M:I - Rogue Nation,$195.0
+104,Brad Bird,$617.4,5,$123.5,The Incredibles,$261.4
+105,Rhett Reese,$594.3,5,$118.9,Deadpool,$363.1
+106,John Lee Hancock,$593.2,7,$84.7,The Blind Side,$256.0
+107,Joel Cohen,$591.7,10,$59.2,Toy Story,$191.8
+108,Paul Wernick,$591.4,4,$147.9,Deadpool,$363.1
+109,Alec Sokolow,$590.8,8,$73.8,Toy Story,$191.8
+110,Jennifer Lee,$590.2,2,$295.1,Frozen,$400.7
+111,Woody Allen,$590.1,44,$13.4,Midnight in Paris,$56.8
+112,Eric Darnell,$590.0,3,$196.7,Madagascar 3,$216.4
+113,Richard LaGravenese,$584.0,16,$36.5,Unbroken,$115.6
+114,Stephen Sommers,$583.5,9,$64.8,Mummy Returns,$202.0
+115,William Nicholson,$583.2,12,$48.6,Gladiator,$187.7
+116,Charles Shyer,$582.9,13,$44.8,Smokey and the Bandit,$126.7
+117,Karey Kirkpatrick,$582.4,9,$64.7,Over the Hedge,$155.0
+118,George Miller,$574.0,9,$63.8,Happy Feet,$198.0
+119,David Hayter,$570.8,4,$142.7,X2: X-Men United,$214.9
+120,Dean Devlin,$561.0,5,$112.2,Independence Day,$306.2
+121,Jon Spaihts,$560.7,5,$112.1,Doctor Strange,$232.6
+122,Etan Cohen,$560.4,5,$112.1,Madagascar: Escape 2 Africa,$180.0
+123,Sam Harper,$559.7,6,$93.3,Rio,$143.6
+124,Drew Goddard,$552.9,4,$138.2,The Martian,$228.4
+125,Jane Goldman,$547.0,7,$78.1,X-Men: First Class,$146.4
+126,Dean DeBlois,$540.4,3,$180.1,How to Train Your Dragon,$217.6
+127,Alexander Payne,$535.5,7,$76.5,Jurassic Park III,$181.2
+128,Steve Koren,$533.8,6,$89.0,Bruce Almighty,$242.8
+129,David Lindsay-Abaire,$533.5,6,$88.9,Oz The Great and Powerful,$234.9
+130,Susannah Grant,$533.2,8,$66.6,Pocahontas,$141.6
+131,Jonathan Hensleigh,$528.3,7,$75.5,Armageddon,$201.6
+132,David Mamet,$526.6,23,$22.9,Hannibal,$165.1
+133,David Twohy,$525.2,13,$40.4,The Fugitive,$183.9
+134,Robert Rodriguez,$519.4,10,$51.9,Spy Kids,$112.7
+135,Gary Dauberman,$513.7,3,$171.2,It,$327.4
+136,Aaron Sorkin,$504.8,7,$72.1,A Few Good Men,$141.3
+137,Tom J. Astle,$504.0,4,$126.0,Home,$177.4
+138,Matt Ember,$504.0,4,$126.0,Home,$177.4
+139,Randall Wallace,$500.7,5,$100.1,Pearl Harbor,$198.5
+140,Evan Daugherty,$497.5,4,$124.4,Ninja Turtles,$191.2
+141,Matthew Vaughn,$492.6,6,$82.1,X-Men: First Class,$146.4
+142,Robert L. Baird,$491.0,2,$245.5,Monsters University,$268.5
+143,Cameron Crowe,$488.0,10,$48.8,Jerry Maguire,$154.0
+144,James Vanderbilt,$475.3,6,$79.2,The Amazing Spider-Man,$262.0
+145,Matt Manfredi,$473.1,8,$59.1,Clash of the Titans,$163.2
+146,George Nolfi,$471.3,5,$94.3,The Bourne Ultimatum,$227.5
+147,David Reynolds,$470.1,2,$235.1,Finding Nemo,$380.8
+148,James Mangold,$467.6,6,$77.9,Logan,$226.3
+149,Phil Hay,$466.0,7,$66.6,Clash of the Titans,$163.2
+150,Ashley Miller,$460.7,4,$115.2,Thor,$181.0
+151,Zack Stentz,$460.7,4,$115.2,Thor,$181.0
+152,Michael Goldenberg,$460.4,4,$115.1,Harry Potter / Phoenix,$292.0
+153,Edgar Wright,$460.3,7,$65.8,Ant-Man,$180.2
+154,Michael Dougherty,$457.8,3,$152.6,X2: X-Men United,$214.9
+155,Kurt Wimmer,$455.8,9,$50.6,Salt,$118.3
+156,Mark Fergus,$454.4,4,$113.6,Iron Man,$318.4
+157,Hawk Ostby,$454.4,4,$113.6,Iron Man,$318.4
+158,Fred Wolf,$452.7,8,$56.6,Grown Ups,$162.0
+159,Michael Chabon,$446.7,2,$223.3,Spider-Man 2,$373.6
+160,Skip Woods,$444.4,7,$63.5,X-Men Origins: Wolverine,$179.9
+161,Brian Lynch,$444.1,2,$222.1,Minions,$336.0
+162,Kurt Johnstad,$438.8,4,$109.7,300,$210.6
+163,Aline Brosh McKenna,$432.2,8,$54.0,The Devil Wears Prada,$124.7
+164,Allan Loeb,$431.7,10,$43.2,Just Go With It,$103.0
+165,Leigh Whannell,$429.9,7,$61.4,Saw II,$87.0
+166,David O. Russell,$428.2,7,$61.2,American Hustle,$150.1
+167,James L. Brooks,$427.2,7,$61.0,As Good as It Gets,$148.5
+168,Michael Mann,$423.1,10,$42.3,Public Enemies,$97.1
+169,Robert Smigel,$418.0,3,$139.3,Hotel Transylvania 2,$169.7
+170,Robert Benton,$416.6,9,$46.3,Superman,$134.2
+171,Michael Bacall,$416.5,5,$83.3,22 Jump Street,$191.7
+172,Peter Baynham,$416.4,5,$83.3,Hotel Transylvania,$148.3
+173,Dan Harris,$415.3,3,$138.4,X2: X-Men United,$214.9
+174,Lee Unkrich,$415.0,1,$415.0,Toy Story 3,$415.0
+175,Mark Steven Johnson,$414.9,7,$59.3,Ghost Rider,$115.8
+176,Paul Haggis,$410.4,9,$45.6,Casino Royale,$167.4
+177,Drew Pearce,$409.0,1,$409.0,Iron Man 3,$409.0
+178,Suzanne Collins,$408.0,1,$408.0,The Hunger Games,$408.0
+179,Scott Derrickson,$407.8,5,$81.6,Doctor Strange,$232.6
+180,Michael France,$404.7,4,$101.2,Fantastic Four (2005),$154.7
+181,David Ronn,$402.8,7,$57.5,Norbit,$95.7
+182,Jay Scherick,$402.8,7,$57.5,Norbit,$95.7
+183,Jim Abrahams,$401.7,7,$57.4,Scary Movie 4,$90.7
+184,Shane Morris,$400.7,1,$400.7,Frozen,$400.7
+185,Josh Appelbaum,$400.6,2,$200.3,Mission: Impossible 4,$209.4
+186,Andre Nemec,$400.6,2,$200.3,Mission: Impossible 4,$209.4
+187,Tom McCarthy,$399.9,6,$66.6,Up,$293.0
+188,Joe Eszterhas,$396.1,14,$28.3,Basic Instinct,$117.7
+189,Ted Griffin,$390.5,7,$55.8,Ocean's Eleven,$183.4
+190,Paul W.S. Anderson,$387.9,9,$43.1,Alien Vs. Predator,$80.3
+191,Darren Lemke,$387.0,3,$129.0,Shrek Forever After,$238.7
+192,Abby Kohn,$384.9,4,$96.2,The Vow,$125.0
+193,Marc Silverstein,$384.9,4,$96.2,The Vow,$125.0
+194,Kevin Williamson,$383.7,7,$54.8,Scream,$103.0
+195,Phil Lord,$382.6,2,$191.3,The LEGO Movie,$257.8
+196,Chris Miller (II),$382.6,2,$191.3,The LEGO Movie,$257.8
+197,David Zucker,$381.1,8,$47.6,Naked Gun 2 1/2,$86.9
+198,Mark Protosevich,$380.6,4,$95.1,I Am Legend,$256.4
+199,Mark O'Keefe,$380.2,2,$190.1,Bruce Almighty,$242.8
+200,Richard Price,$379.3,11,$34.5,Ransom,$136.5
+201,Alfred Gough & Miles Millar,$379.1,6,$63.2,The Mummy 3,$102.5
+202,Will Ferrell,$376.0,3,$125.3,Talladega Nights,$148.2
+203,Frank Miller,$374.7,6,$62.4,300,$210.6
+204,Tom McGrath,$373.6,2,$186.8,Madagascar,$193.6
+205,Justin Marks,$372.7,2,$186.4,The Jungle Book,$364.0
+206,Max Borenstein,$368.7,2,$184.4,Godzilla,$200.7
+207,Scott Z. Burns,$368.6,4,$92.2,The Bourne Ultimatum,$227.5
+208,Jason Dean Hall,$367.2,4,$91.8,American Sniper,$350.1
+209,Mitchell Kapner,$364.5,4,$91.1,Oz The Great and Powerful,$234.9
+210,Matthew Michael Carnahan,$363.4,5,$72.7,World War Z,$202.4
+211,Christopher B. Landon,$362.6,7,$51.8,Paranormal Activity 3,$104.0
+212,Shane Salerno,$361.7,5,$72.3,Armageddon,$201.6
+213,Jason Friedberg,$361.4,7,$51.6,Scary Movie,$157.0
+214,Delia Ephron,$359.3,7,$51.3,You've Got Mail,$115.8
+215,Rob Letterman,$359.2,2,$179.6,Monsters Vs. Aliens,$198.4
+216,Timothy Dowling,$358.6,5,$71.7,Just Go With It,$103.0
+217,Josh Cooley,$356.5,1,$356.5,Inside Out,$356.5
+218,Meg LaFauve,$356.5,1,$356.5,Inside Out,$356.5
+219,Zack Snyder,$353.6,3,$117.9,300,$210.6
+220,Ron Bencich,$349.4,4,$87.4,Chicken Little,$135.4
+221,Ron J. Friedman,$349.4,4,$87.4,Chicken Little,$135.4
+222,Seth MacFarlane,$343.4,3,$114.5,Ted,$218.8
+223,Alec Sulkin,$343.4,3,$114.5,Ted,$218.8
+224,Wellesley Wild,$343.4,3,$114.5,Ted,$218.8
+225,Kevin James,$343.0,4,$85.8,Paul Blart: Mall Cop,$146.3
+226,J.F. Lawton,$335.6,8,$42.0,Pretty Woman,$178.4
+227,Don Payne,$335.5,3,$111.8,Thor,$181.0
+228,Aaron Seltzer,$334.4,6,$55.7,Scary Movie,$157.0
+229,Katie Dippold,$333.8,3,$111.3,The Heat,$159.6
+230,Nicole Perlman,$333.2,1,$333.2,Guardians of the Galaxy,$333.2
+231,Cary Fukunaga,$329.9,2,$165.0,It,$327.4
+232,Karen McCullah Lutz,$328.5,6,$54.8,Legally Blonde,$96.5
+233,Kirsten Smith,$328.5,6,$54.8,Legally Blonde,$96.5
+234,Yoni Brenner,$328.1,2,$164.1,Ice Age 3,$196.6
+235,John Collee,$328.0,4,$82.0,Happy Feet,$198.0
+236,Chris Miller,$322.7,1,$322.7,Shrek the Third,$322.7
+237,Gerald Di Pego,$318.5,6,$53.1,Phenomenon,$104.6
+238,Andrew Kevin Walker,$316.4,6,$52.7,Sleepy Hollow,$101.1
+239,Joshua Sternin,$315.6,4,$78.9,Rio,$143.6
+240,Jeffrey Ventimilia,$315.6,4,$78.9,Rio,$143.6
+241,Paul Weitz,$315.4,6,$52.6,The Klumps,$123.3
+242,Bill Condon,$313.9,7,$44.8,Chicago,$170.7
+243,David Franzoni,$313.7,4,$78.4,Gladiator,$187.7
+244,Peter Tolan,$313.2,8,$39.2,Analyze This,$106.9
+245,Audrey Wells,$311.9,6,$52.0,George of the Jungle,$105.3
+246,Richard Wenk,$310.4,7,$44.3,The Equalizer,$101.5
+247,Mark Andrews,$310.4,2,$155.2,Brave,$237.3
+248,Baz Luhrmann,$309.9,5,$62.0,The Great Gatsby,$144.8
+249,Chad Hayes,$307.3,5,$61.5,The Conjuring,$137.4
+250,Carey Hayes,$307.3,5,$61.5,The Conjuring,$137.4
+251,Lorne Cameron,$304.6,3,$101.5,Over the Hedge,$155.0
+252,Kenneth Lonergan,$299.8,7,$42.8,Analyze This,$106.9
+253,David H. Steinberg,$299.7,3,$99.9,Puss in Boots,$149.3
+254,Sean Anders,$299.6,7,$42.8,Dumb and Dumber To,$86.2
+255,Nick Bakay,$297.7,3,$99.2,Paul Blart: Mall Cop,$146.3
+256,Barry Levinson,$296.6,12,$24.7,Sleepers,$53.3
+257,David Seltzer,$296.6,10,$29.7,Bird on a Wire,$71.0
+258,William Monahan,$296.2,6,$49.4,The Departed,$132.4
+259,Noah Baumbach,$290.2,11,$26.4,Madagascar 3,$216.4
+260,Kirk De Micco,$289.6,4,$72.4,The Croods,$187.2
+261,Frank Darabont,$285.8,7,$40.8,Green Mile,$136.8
+262,Dan Gilroy,$285.2,8,$35.7,The Bourne Legacy,$113.2
+263,Nia Vardalos,$285.1,4,$71.3,My Big Fat Greek Wedding,$241.4
+264,Scott Alexander,$284.6,9,$31.6,1408,$72.0
+265,Larry Karaszewski,$284.6,9,$31.6,1408,$72.0
+266,C. Robert Cargill,$280.7,2,$140.4,Doctor Strange,$232.6
+267,Randi Mayem Singer,$279.2,2,$139.6,Mrs. Doubtfire,$219.2
+268,Don Roos,$276.8,9,$30.8,Marley and Me,$143.2
+269,Stephen Gaghan,$276.6,6,$46.1,Traffic,$124.1
+270,John Fusco,$276.4,7,$39.5,Spirit,$73.3
+271,Carlos Saldanha,$275.2,2,$137.6,Rio,$143.6
+272,Alfonso Cuaron,$274.1,1,$274.1,Gravity,$274.1
+273,Jonas Cuaron,$274.1,1,$274.1,Gravity,$274.1
+274,Brian Koppelman,$272.0,8,$34.0,Ocean's Thirteen,$117.2
+275,Boaz Yakin,$270.7,8,$33.8,Now You See Me,$117.7
+276,Garth Jennings,$270.3,1,$270.3,Sing,$270.3
+277,Dan Scanlon,$268.5,1,$268.5,Monsters University,$268.5
+278,Daniel Waters,$268.4,7,$38.3,Batman Returns,$162.8
+279,David Levien,$267.7,7,$38.2,Ocean's Thirteen,$117.2
+280,David Leslie Johnson,$265.4,4,$66.3,The Conjuring 2,$102.5
+281,Travis Beachem,$265.0,3,$88.3,Clash of the Titans,$163.2
+282,Hossein Amini,$264.9,10,$26.5,Snow White and the Huntsman,$155.3
+283,Laeta Kalogridis,$263.8,5,$52.8,Shutter Island,$128.0
+284,Ben Affleck,$261.3,4,$65.3,Good Will Hunting,$138.4
+285,James DeMonaco,$260.7,6,$43.4,The Purge: Anarchy,$72.0
+286,Simon Pegg,$259.4,5,$51.9,Star Trek Beyond,$158.8
+287,Michael G. Wilson,$258.9,5,$51.8,Octopussy,$67.9
+288,Joe Cornish,$258.8,3,$86.3,Ant-Man,$180.2
+289,Lewis Colick,$256.9,7,$36.7,Ladder 49,$74.5
+290,Chris Henchy,$255.6,3,$85.2,The Other Guys,$119.2
+291,James Wan,$255.5,4,$63.9,The Conjuring 2,$102.5
+292,Steven Rogers,$252.0,4,$63.0,Stepmom,$91.1
+293,Damien Chazelle,$251.5,6,$41.9,La La Land,$151.1
+294,Kelly Marcel,$249.5,2,$124.7,Fifty Shades of Grey,$166.2
+295,Kay Cannon,$249.3,2,$124.6,Pitch Perfect 2,$184.3
+296,Sacha Baron Cohen,$248.2,3,$82.7,Borat,$128.5
+297,Michael Patrick King,$248.0,2,$124.0,Sex and the City,$152.6
+298,Roger Avary,$244.1,5,$48.8,Pulp Fiction,$107.9
+299,Glenn Ficarra,$242.2,5,$48.4,Cats & Dogs,$93.4
+300,John Requa,$242.2,5,$48.4,Cats & Dogs,$93.4
+301,Neill Blomkamp,$240.3,3,$80.1,District 9,$115.6
+302,John Ridley,$239.7,8,$30.0,Three Kings,$60.7
+303,Paul Feig,$239.2,2,$119.6,Ghostbusters (2016),$128.4
+304,Jeff Schaffer,$238.6,4,$59.7,The Cat in the Hat,$101.1
+305,Brenda Chapman,$237.3,1,$237.3,Brave,$237.3
+306,Steve Purcell,$237.3,1,$237.3,Brave,$237.3
+307,Andrew Niccol,$236.5,7,$33.8,Truman Show,$125.6
+308,Steve Conrad,$234.7,4,$58.7,The Pursuit of Happyness,$163.6
+309,Mike White,$234.2,7,$33.5,School of Rock,$81.3
+310,Scott Neustadter,$232.0,5,$46.4,The Fault in our Stars,$124.9
+311,Michael H. Weber,$232.0,5,$46.4,The Fault in our Stars,$124.9
+312,Wes Anderson,$231.8,8,$29.0,The Grand Budapest Hotel,$59.3
+313,Brendan O'Brien,$231.2,3,$77.1,Neighbors,$150.2
+314,Alejandro González Iñárritu,$231.1,3,$77.0,The Revenant,$183.6
+315,Tony Kushner,$229.6,2,$114.8,Lincoln,$182.2
+316,Leslie Bohem,$228.5,8,$28.6,Safe Haven,$71.3
+317,Juliet Snowden,$226.7,4,$56.7,Knowing,$80.0
+318,Stiles White,$226.7,4,$56.7,Knowing,$80.0
+319,Jordan Roberts,$222.7,2,$111.4,Big Hero 6,$222.5
+320,Rodney Rothman,$221.5,2,$110.8,22 Jump Street,$191.7
+321,Dana Fox,$221.2,3,$73.7,Couples Retreat,$109.2
+322,Erich Hoeber,$219.3,4,$54.8,Red,$90.4
+323,Jon Hoeber,$219.3,4,$54.8,Red,$90.4
+324,Jason Segel,$219.2,4,$54.8,The Muppets,$88.6
+325,Peter Berg,$218.2,3,$72.7,Lone Survivor,$125.1
+326,Dana Stevens,$216.4,5,$43.3,City of Angels,$78.7
+327,Vanessa Taylor,$214.7,3,$71.6,Divergent,$150.9
+328,Jez Butterworth,$214.1,6,$35.7,Edge of Tomorrow,$100.2
+329,Keith Merryman,$212.5,3,$70.8,Think Like a Man,$91.5
+330,David A. Newman,$212.5,3,$70.8,Think Like a Man,$91.5
+331,Steven Lisberger,$209.3,3,$69.8,Tron Legacy,$172.1
+332,George Gallo,$209.3,11,$19.0,Bad Boys,$65.8
+333,Marcus Dunstan,$208.4,8,$26.1,Saw IV,$63.3
+334,Patrick Melton,$208.4,8,$26.1,Saw IV,$63.3
+335,Charles Leavitt,$207.1,6,$34.5,Blood Diamond,$57.4
+336,Christopher Yost,$206.4,1,$206.4,Thor: The Dark World,$206.4
+337,Jeffrey Caine,$205.0,4,$51.3,GoldenEye,$106.4
+338,Diablo Cody,$202.8,4,$50.7,Juno,$143.5
+339,Greg Berlanti,$202.0,3,$67.3,Green Lantern,$116.6
+340,Tom Shadyac,$201.0,2,$100.5,Nutty Professor,$128.8
+341,Nick Hornby,$199.5,7,$28.5,Fever Pitch,$42.1
+342,Adam Brooks,$198.0,7,$28.3,Practical Magic,$46.7
+343,Phil Johnston,$196.3,2,$98.1,Wreck-It Ralph,$189.4
+344,Bruce A. Evans,$195.9,7,$28.0,Jungle 2 Jungle,$59.9
+345,Raynold Gideon,$195.9,7,$28.0,Jungle 2 Jungle,$59.9
+346,Nick Schenk,$195.2,2,$97.6,Gran Torino,$148.1
+347,Wes Craven,$193.2,9,$21.5,A Nightmare on Elm Street 3: Dream Warriors,$44.8
+348,Katherine Fugate,$193.2,3,$64.4,Valentine's Day,$110.5
+349,Carlo Bernard,$192.7,4,$48.2,Prince of Persia,$90.8
+350,Doug Miro,$192.7,4,$48.2,Prince of Persia,$90.8
+351,Ann Biderman,$192.7,5,$38.5,Public Enemies,$97.1
+352,Oren Uziel,$191.7,1,$191.7,22 Jump Street,$191.7
+353,David Guion,$189.9,3,$63.3,Night at the Museum: Secret of the Tomb,$113.7
+354,Michael Handelman,$189.9,3,$63.3,Night at the Museum: Secret of the Tomb,$113.7
+355,Eric Heisserer,$189.9,4,$47.5,Lights Out,$67.3
+356,David Magee,$189.0,3,$63.0,Life of Pi,$125.0
+357,Michele Mulroney,$186.9,2,$93.4,Sherlock Holmes 2,$186.8
+358,Kieran Mulroney,$186.9,2,$93.4,Sherlock Holmes 2,$186.8
+359,Callie Khouri,$186.5,4,$46.6,Ya-Ya Sisterhood,$69.6
+360,Christopher Bertolini,$186.3,2,$93.1,General's Daughter,$102.7
+361,Marc Guggenheim,$185.2,2,$92.6,Green Lantern,$116.6
+362,Ben Stiller,$184.5,3,$61.5,Tropic Thunder,$110.5
+363,T.S. Nowlin,$184.1,2,$92.1,The Maze Runner,$102.4
+364,Brian Klugman,$183.6,2,$91.8,Tron Legacy,$172.1
+365,Lee Sternthal,$183.6,2,$91.8,Tron Legacy,$172.1
+366,Jeremy Garelick,$183.2,2,$91.6,The Break-Up,$118.7
+367,Jay Lavender,$183.2,2,$91.6,The Break-Up,$118.7
+368,Jerry Zucker,$182.7,3,$60.9,Airplane!,$83.5
+369,Steven Knight,$181.4,11,$16.5,The Hundred-Foot Journey,$54.2
+370,Paul Rudnick,$180.4,6,$30.1,In & Out,$63.9
+371,Adam Rifkin,$180.3,8,$22.5,Mouse Hunt,$61.9
+372,Paul Rudd,$180.2,1,$180.2,Ant-Man,$180.2
+373,Reid Carolin,$179.7,2,$89.9,Magic Mike,$113.7
+374,Peter Morgan,$179.7,8,$22.5,The Queen,$56.4
+375,Alec Berg,$178.6,3,$59.5,The Cat in the Hat,$101.1
+376,David Mandel,$178.6,3,$59.5,The Cat in the Hat,$101.1
+377,Jeff Vintar,$176.9,2,$88.5,"I, Robot",$144.8
+378,Andrew J. Cohen,$175.7,2,$87.9,Neighbors,$150.2
+379,Andrew Davies,$175.7,6,$29.3,Bridget Jones's Diary,$71.5
+380,Spike Jonze,$175.6,3,$58.5,Where the Wild Things Are,$77.2
+381,Eric Warren Singer,$175.6,2,$87.8,American Hustle,$150.1
+382,Jordan Peele,$175.5,1,$175.5,Get Out,$175.5
+383,Gary Goldman,$173.8,4,$43.4,Total Recall,$119.4
+384,Greg Coolidge,$173.6,3,$57.9,Ride Along,$134.9
+385,Jon Zack,$173.6,3,$57.9,Puss in Boots,$149.3
+386,David Seidler,$173.3,3,$57.8,The King's Speech,$138.8
+387,Matt Sazama,$172.8,3,$57.6,Power Rangers,$85.4
+388,Burk Sharpless,$172.8,3,$57.6,Power Rangers,$85.4
+389,Adam Horowitz,$172.1,1,$172.1,Tron Legacy,$172.1
+390,Edward Kitsis,$172.1,1,$172.1,Tron Legacy,$172.1
+391,Max Landis,$170.2,5,$34.0,Power Rangers,$85.4
+392,Matt Greenberg,$170.1,3,$56.7,1408,$72.0
+393,Bill Collage,$170.1,4,$42.5,Exodus: Gods and Kings,$65.0
+394,Adam Cooper,$170.1,4,$42.5,Exodus: Gods and Kings,$65.0
+395,Tate Taylor,$169.7,2,$84.9,The Help,$169.7
+396,Allison Burnett,$169.6,8,$21.2,Underworld Awakening,$62.3
+397,Kristen Wiig,$169.1,1,$169.1,Bridesmaids,$169.1
+398,Gillian Flynn,$167.8,1,$167.8,Gone Girl,$167.8
+399,Ice Cube,$167.0,5,$33.4,Next Friday,$57.3
+400,David Benioff,$165.9,4,$41.5,Troy,$133.4
+401,Paul Tibbitt,$163.0,1,$163.0,SpongeBob,$163.0
+402,Kevin Smith,$161.8,10,$16.2,Zack and Miri Make a Porno,$31.5
+403,Justin Haythe,$160.9,4,$40.2,The Lone Ranger,$89.3
+404,Keenen Ivory Wayans,$159.3,7,$22.8,White Chicks,$70.8
+405,Clark Gregg,$158.4,2,$79.2,What Lies Beneath,$155.5
+406,George Clooney,$156.3,4,$39.1,The Monuments Men,$78.0
+407,Grant Heslov,$156.3,4,$39.1,The Monuments Men,$78.0
+408,Gary Whitta,$155.4,2,$77.7,The Book of Eli,$94.8
+409,Carlton Cuse,$155.2,1,$155.2,San Andreas,$155.2
+410,Nick Lathouris,$154.1,1,$154.1,Mad Max: Fury Road,$154.1
+411,Brendan McCarthy,$154.1,1,$154.1,Mad Max: Fury Road,$154.1
+412,Peter Hedges,$154.0,6,$25.7,The Odd Life of Timothy Green,$51.9
+413,Jeremy Leven,$153.7,6,$25.6,The Notebook,$81.0
+414,Heather Hach,$151.4,2,$75.7,Freaky Friday,$110.2
+415,James Wong,$151.3,3,$50.4,Final Destination 3,$54.1
+416,Karen Janszen,$150.9,7,$21.6,Dolphin Tale,$72.3
+417,Jon Favreau,$150.5,4,$37.6,Couples Retreat,$109.2
+418,John J. McLaughlin,$150.3,4,$37.6,Black Swan,$107.0
+419,Scott Marshall Smith,$150.1,3,$50.0,The Score,$71.1
+420,John Pogue,$149.8,5,$30.0,U.S. Marshals,$57.2
+421,Tom Wheeler,$149.3,1,$149.3,Puss in Boots,$149.3
+422,Jon Hurwitz,$148.4,4,$37.1,American Reunion,$57.0
+423,Hayden Schlossberg,$148.4,4,$37.1,American Reunion,$57.0
+424,Melissa McCarthy,$147.8,2,$73.9,Tammy,$84.5
+425,Malcolm D. Lee,$147.1,3,$49.0,The Best Man Holiday,$70.5
+426,Jack Amiel,$146.9,4,$36.7,The Shaggy Dog,$61.1
+427,Michael Begler,$146.9,4,$36.7,The Shaggy Dog,$61.1
+428,Bryan Singer,$146.4,1,$146.4,X-Men: First Class,$146.4
+429,Matt Damon,$146.3,3,$48.8,Good Will Hunting,$138.4
+430,Richard D'Ovidio,$145.5,3,$48.5,The Call,$51.9
+431,Fede Alvarez,$143.5,2,$71.7,Don't Breathe,$89.2
+432,Rodo Sayagues Mendez,$143.5,2,$71.7,Don't Breathe,$89.2
+433,Will Gluck,$141.7,2,$70.9,Annie (2014),$85.9
+434,John-Henry Butterworth,$140.5,3,$46.8,Edge of Tomorrow,$100.2
+435,Lem Dobbs,$139.7,7,$20.0,The Score,$71.1
+436,Jay Cocks,$138.6,5,$27.7,Gangs of New York,$77.8
+437,Jonah Hill,$138.4,1,$138.4,21 Jump Street,$138.4
+438,Katrin Benedikt,$138.2,2,$69.1,Olympus Has Fallen,$98.9
+439,Creighton Rothenberger,$138.2,2,$69.1,Olympus Has Fallen,$98.9
+440,Carl Ellsworth,$138.1,2,$69.1,Disturbia,$80.2
+441,Darren Aronofsky,$136.6,6,$22.8,Noah,$101.2
+442,John Romano,$136.3,5,$27.3,The Lincoln Lawyer,$58.0
+443,Mark Boal,$136.3,4,$34.1,Zero Dark Thirty,$95.7
+444,Lisa Addario,$136.1,2,$68.1,Parental Guidance,$77.3
+445,Joe Syracuse,$136.1,2,$68.1,Parental Guidance,$77.3
+446,Derek Kolstad,$135.1,2,$67.5,John Wick 2,$92.0
+447,Mike Cerrone,$134.9,2,$67.5,"Me, Myself and Irene",$90.6
+448,Patrick Lussier,$133.5,3,$44.5,Terminator: Genisys,$89.8
+449,Bill Dubuque,$133.4,2,$66.7,The Accountant,$86.3
+450,Brian Duffield,$131.7,2,$65.8,Insurgent,$130.2
+451,Paul Thomas Anderson,$131.6,7,$18.8,There Will Be Blood,$40.2
+452,Jessica Bendinger,$128.3,5,$25.7,Bring It On,$68.4
+453,James Lapine,$128.0,1,$128.0,Into the Woods,$128.0
+454,Aaron Guzikowski,$127.5,2,$63.8,Contraband,$66.5
+455,Paul Harris Boardman,$127.1,3,$42.4,The Exorcism of Emily Rose,$75.1
+456,David Guggenheim,$126.7,2,$63.3,Safe House,$126.4
+457,Oren Peli,$126.0,3,$42.0,Paranormal Activity,$107.9
+458,Ryan Coogler,$125.9,2,$62.9,Creed,$109.8
+459,Rock Reuben,$125.7,2,$62.8,Zookeeper,$80.4
+460,Michael Sucsy,$125.0,1,$125.0,The Vow,$125.0
+461,Jamie Linden,$123.8,3,$41.3,Dear John,$80.0
+462,Gore Verbinski,$123.5,1,$123.5,Rango,$123.5
+463,Christopher Hampton,$123.4,13,$9.5,Atonement,$50.9
+464,Jason Reitman,$122.7,4,$30.7,Up in the Air,$83.8
+465,Robert D. Siegel,$122.3,4,$30.6,Turbo,$83.0
+466,Burr Steers,$121.5,3,$40.5,How to Lose a Guy,$105.8
+467,Erica Rivinoja,$119.8,1,$119.8,Cloudy with a Chance of Meatballs 2,$119.8
+468,Edward Ricourt,$117.7,1,$117.7,Now You See Me,$117.7
+469,Michael Markowitz,$117.5,1,$117.5,Horrible Bosses,$117.5
+470,Seth Grahame-Smith,$117.2,2,$58.6,Dark Shadows,$79.7
+471,Justin Zackham,$115.4,3,$38.5,The Bucket List,$93.5
+472,Rawson Marshall Thurber,$114.4,2,$57.2,DodgeBall,$114.3
+473,Chris Williams,$114.1,1,$114.1,Bolt,$114.1
+474,Joe Carnahan,$113.6,4,$28.4,The Grey,$51.6
+475,David Loucka,$113.2,4,$28.3,House at the End of The Street,$31.6
+476,Mark Heyman,$112.2,2,$56.1,Black Swan,$107.0
+477,Mark Brown,$112.2,4,$28.0,Barbershop,$75.8
+478,Craig Wright,$111.5,1,$111.5,Mr. Peabody & Sherman,$111.5
+479,Jonathan Levine,$111.5,3,$37.2,Warm Bodies,$66.4
+480,Todd Farmer,$110.8,4,$27.7,My Bloody Valentine 3-D,$51.5
+481,Roman Polanski,$109.1,9,$12.1,Chinatown,$29.2
+482,John Singleton,$108.6,2,$54.3,Shaft,$70.3
+483,Deborah Kaplan & Harry Elfont,$108.2,5,$21.6,Flintstones 2,$35.3
+484,J. Mills Goodloe,$106.4,4,$26.6,The Age of Adaline,$42.6
+485,Will Fetters,$106.3,3,$35.4,The Lucky One,$60.5
+486,Terry Gilliam,$106.0,6,$17.7,Time Bandits,$42.4
+487,Ruth Prawer Jhabvala,$105.7,14,$7.6,Howards End,$26.1
+488,Shauna Cross,$104.7,3,$34.9,If I Stay,$50.5
+489,Elizabeth Hunter,$103.9,3,$34.6,Jumping the Broom,$37.3
+490,Brian Gunn,$103.9,1,$103.9,Journey 2,$103.9
+491,Mark Gunn,$103.9,1,$103.9,Journey 2,$103.9
+492,Pam Brady,$103.6,4,$25.9,"South Park - Bigger, Longer and Uncut",$52.0
+493,Charlie Kaufman,$103.3,7,$14.8,Eternal Sunshine,$34.4
+494,Grant Pierce Myers,$102.4,1,$102.4,The Maze Runner,$102.4
+495,Noah Oppenheim,$102.4,1,$102.4,The Maze Runner,$102.4
+496,Johnny Knoxville,$102.0,1,$102.0,Bad Grandpa,$102.0
+497,Jeff Tremaine,$102.0,1,$102.0,Bad Grandpa,$102.0
+498,John Landis,$101.8,3,$33.9,Blues Brothers,$57.2
+499,Ari Handel,$101.2,1,$101.2,Noah,$101.2
+500,Chris Parker,$100.3,2,$50.2,Heaven is for Real,$91.4
+501,Marc Moss,$100.0,2,$50.0,Along Came a Spider,$74.1
+502,Alejandro Amenabar,$99.7,5,$19.9,The Others,$96.5
+503,Don Hall,$97.8,1,$97.8,Meet the Robinsons,$97.8
+504,Peter Straughan,$97.5,5,$19.5,The Men Who Stare at Goats,$32.4
+505,Jack Paglen,$97.3,2,$48.6,Alien: Covenant,$74.3
+506,Ronan Bennett,$97.2,3,$32.4,Public Enemies,$97.1
+507,Howard Klausner,$95.8,4,$23.9,Space Cowboys,$90.5
+508,Eddie Murphy,$95.7,1,$95.7,Norbit,$95.7
+509,Anthony Minghella,$95.6,1,$95.6,Cold Mountain,$95.6
+510,Roland Emmerich,$94.8,1,$94.8,"10,000 B.C.",$94.8
+511,Harald Kloser,$94.8,1,$94.8,"10,000 B.C.",$94.8
+512,Marlon Wayans,$94.7,4,$23.7,A Haunted House,$40.0
+513,Thomas Dean Donnelly,$93.1,4,$23.3,Sahara,$68.7
+514,Joshua Oppenheimer,$93.1,4,$23.3,Sahara,$68.7
+515,Tom Brady,$92.8,2,$46.4,The Animal,$57.7
+516,Ryan Engle,$92.2,1,$92.2,Non-Stop,$92.2
+517,John W. Richardson,$92.2,1,$92.2,Non-Stop,$92.2
+518,Chris Roach,$92.2,1,$92.2,Non-Stop,$92.2
+519,David Lynch,$91.8,7,$13.1,Dune,$30.9
+520,David Hare,$91.6,7,$13.1,The Hours,$41.7
+521,Graham Moore,$91.1,1,$91.1,The Imitation Game,$91.1
+522,Jason Keller,$90.6,3,$30.2,Mirror Mirror,$64.9
+523,Joshua Zetumer,$90.5,2,$45.2,RoboCop,$58.6
+524,Jeffrey M. Howard,$90.3,1,$90.3,Planes,$90.3
+525,Alex Garland,$90.0,5,$18.0,28 Days Later,$45.1
+526,The Farrelly Bros.,$89.4,2,$44.7,Hall Pass,$45.1
+527,Theodore Melfi,$89.2,2,$44.6,Going in Style (2017),$45.0
+528,Karl Gajdusek,$89.1,2,$44.6,Oblivion,$89.1
+529,Joseph Kosinski,$89.1,1,$89.1,Oblivion,$89.1
+530,Ryan Murphy,$87.6,2,$43.8,Eat Pray Love,$80.6
+531,Darren Lynn Bousman,$87.1,2,$43.5,Saw II,$87.0
+532,Shawn Harwell,$86.9,1,$86.9,The Campaign,$86.9
+533,Mark Schwahn,$86.4,3,$28.8,Coach Carter,$67.3
+534,Tina Fey,$86.1,1,$86.1,Mean Girls,$86.1
+535,David Wain,$85.8,4,$21.5,Role Models,$67.3
+536,Neil Gaiman,$85.5,3,$28.5,Beowulf,$82.3
+537,Trey Parker,$85.4,3,$28.5,"South Park - Bigger, Longer and Uncut",$52.0
+538,Mike Judge,$85.2,4,$21.3,Beavis and Butt-Head Do America,$63.1
+539,Guy Ritchie,$84.6,2,$42.3,The Man From U.N.C.L.E.,$45.4
+540,Melissa Stack,$83.9,1,$83.9,The Other Woman,$83.9
+541,Thomas Bezucha,$83.8,3,$27.9,The Family Stone,$60.1
+542,Dan Mazeau,$83.7,1,$83.7,Wrath of the Titans,$83.7
+543,Sofia Coppola,$83.7,6,$13.9,Lost in Translation,$44.6
+544,Craig Brewer,$83.4,3,$27.8,Footloose,$51.8
+545,Sue Smith,$83.3,1,$83.3,Saving Mr. Banks,$83.3
+546,David Soren,$83.0,1,$83.0,Turbo,$83.0
+547,Luke Greenfield,$82.4,1,$82.4,Let's Be Cops,$82.4
+548,Nicholas Thomas,$82.4,1,$82.4,Let's Be Cops,$82.4
+549,John Erick Dowdle,$80.3,3,$26.8,Quarantine,$31.7
+550,Drew Dowdle,$80.3,3,$26.8,Quarantine,$31.7
+551,Gregory Levasseur,$80.2,5,$16.0,The Hills Have Eyes,$41.8
+552,Michael Cimino,$80.2,3,$26.7,Magnum Force,$39.8
+553,Gina Prince-Bythewood,$79.8,3,$26.6,The Secret Life of Bees,$37.8
+554,Barry Levy,$79.7,2,$39.8,Vantage Point,$72.3
+555,Sacha Gervasi,$78.2,3,$26.1,The Terminal,$77.9
+556,Alex Kendrick,$78.2,3,$26.1,Courageous,$34.5
+557,Stephen Kendrick,$78.2,3,$26.1,Courageous,$34.5
+558,J.H. Wyman,$77.7,2,$38.9,The Mexican,$66.8
+559,Steven Moffat,$77.6,1,$77.6,The Adventures of Tintin,$77.6
+560,Kario Salem,$77.1,2,$38.6,The Score,$71.1
+561,William Brent Bell,$76.3,2,$38.2,The Devil Inside,$53.3
+562,Matthew Peterman,$76.3,2,$38.2,The Devil Inside,$53.3
+563,Paul King,$76.3,1,$76.3,Paddington,$76.3
+564,Mike Binder,$76.1,6,$12.7,Black or White,$21.6
+565,Blake Masters,$75.6,1,$75.6,2 Guns,$75.6
+566,Henry Selick,$75.3,1,$75.3,Coraline,$75.3
+567,Marti Noxon,$73.4,2,$36.7,I Am Number Four,$55.1
+568,Todd Graff,$73.2,6,$12.2,Joyful Noise,$30.9
+569,Mark Neveldine,$72.7,5,$14.5,Crank,$27.8
+570,Brian Taylor,$72.7,5,$14.5,Crank,$27.8
+571,Ryan Condal,$72.7,1,$72.7,Hercules,$72.7
+572,Stuart Blumberg,$72.4,3,$24.1,Keeping the Faith,$37.0
+573,Alex Litvak,$72.4,2,$36.2,Predators,$52.0
+574,Noam Dromi,$72.3,1,$72.3,Dolphin Tale,$72.3
+575,Jim Carrey,$72.2,1,$72.2,Ace Ventura: Pet Detective,$72.2
+576,Rian Johnson,$72.1,3,$24.0,Looper,$66.5
+577,Neil Cross,$71.6,1,$71.6,Mama,$71.6
+578,Barbara Muschietti,$71.6,1,$71.6,Mama,$71.6
+579,Andres Muschietti,$71.6,1,$71.6,Mama,$71.6
+580,Ben Ripley,$71.6,2,$35.8,Source Code,$54.7
+581,Elizabeth Meriwether,$70.7,1,$70.7,No Strings Attached,$70.7
+582,Tim McCanlies,$69.7,4,$17.4,Secondhand Lions,$42.1
+583,John Orloff,$69.3,3,$23.1,Legend of the Guardians,$55.7
+584,Dustin Lance Black,$69.2,3,$23.1,J. Edgar,$37.3
+585,Rick Alvarez,$69.1,3,$23.0,A Haunted House,$40.0
+586,Matt Reeves,$68.7,4,$17.2,Under Siege 2: Dark Territory,$50.0
+587,Jim Sheridan,$68.3,7,$9.8,In the Name of the Father,$25.1
+588,Rowan Joffe,$67.8,5,$13.6,The American,$35.6
+589,Rob Lieber,$67.0,1,$67.0,Alexander,$67.0
+590,Elisa Bell,$66.5,3,$22.2,Vegas Vacation,$36.4
+591,Craig Rosenberg,$65.4,3,$21.8,The Uninvited,$28.6
+592,Melisa Wallack,$65.0,2,$32.5,Mirror Mirror,$64.9
+593,Pedro Almodovar,$64.7,15,$4.3,Volver,$12.9
+594,John Quaintance,$64.6,3,$21.5,Hot Pursuit,$34.6
+595,Josh Trank,$64.6,1,$64.6,Chronicle,$64.6
+596,Albert Brooks,$64.1,8,$8.0,Mother (1996),$19.1
+597,Mike Flanagan,$62.8,2,$31.4,Ouija 2,$35.1
+598,Jeff Howard,$62.8,2,$31.4,Ouija 2,$35.1
+599,Josh Heald,$62.6,2,$31.3,Hot Tub Time Machine,$50.3
+600,John Swetnam,$62.5,2,$31.3,Into The Storm,$47.6
+601,Len Wiseman,$62.3,1,$62.3,Underworld Awakening,$62.3
+602,Guillermo Arriaga,$61.2,5,$12.2,Babel,$34.3
+603,Ian Mackenzie Jeffers,$61.1,2,$30.6,The Grey,$51.6
+604,Dinesh D'Souza,$61.0,3,$20.3,2016 Obama's America,$33.4
+605,Andrew Fleming,$60.6,5,$12.1,The Craft,$24.8
+606,Christopher Spencer,$59.7,1,$59.7,Son of God,$59.7
+607,Chris Buck,$58.9,1,$58.9,Surf's Up,$58.9
+608,Roman Coppola,$57.9,5,$11.6,Moonrise Kingdom,$45.5
+609,John Luessenhop,$57.7,1,$57.7,Takers,$57.7
+610,Scott Charles Stewart,$57.6,2,$28.8,Legion,$40.2
+611,Bob Barlen,$57.0,1,$57.0,Escape From Planet Earth,$57.0
+612,Cal Brunker,$57.0,1,$57.0,Escape From Planet Earth,$57.0
+613,Tim Kelleher,$56.3,2,$28.1,Grudge Match,$29.8
+614,Jimmy Hayward,$55.8,1,$55.8,Free Birds,$55.8
+615,Tommy Wirkola,$55.8,2,$27.9,Hansel and Gretel,$55.7
+616,Dante Harper,$55.7,1,$55.7,Hansel and Gretel,$55.7
+617,Steve Pink,$55.4,2,$27.7,Grosse Pointe Blank,$28.1
+618,Matt Drake,$55.2,2,$27.6,Project X,$54.7
+619,William Friedkin,$54.9,4,$13.7,Cruising,$19.8
+620,Adi Hasak,$54.8,2,$27.4,3 Days to Kill,$30.7
+621,Michael Lesslie,$54.6,1,$54.6,Assassin's Creed,$54.6
+622,Kevin Munroe,$54.1,1,$54.1,TMNT,$54.1
+623,Aimee Lagos,$52.5,1,$52.5,No Good Deed,$52.5
+624,Duncan Jones,$52.4,2,$26.2,Warcraft,$47.4
+625,Paul Webb,$52.1,1,$52.1,Selma,$52.1
+626,Allen Hughes,$52.1,2,$26.0,Menace II Society,$27.9
+627,Albert Hughes,$52.1,2,$26.0,Menace II Society,$27.9
+628,Jane Campion,$52.1,5,$10.4,The Piano,$40.2
+629,Scott M. Gimple,$51.8,1,$51.8,Ghost Rider 2,$51.8
+630,Seth Hoffman,$51.8,1,$51.8,Ghost Rider 2,$51.8
+631,Sean Hood,$51.6,2,$25.8,Halloween 8,$30.4
+632,Irena Brignull,$50.8,1,$50.8,The Boxtrolls,$50.8
+633,Adam Pava,$50.8,1,$50.8,The Boxtrolls,$50.8
+634,Scott Cooper,$50.8,2,$25.4,Crazy Heart,$39.5
+635,Adam Cozad,$50.6,1,$50.6,Jack Ryan: Shadow Recruit,$50.6
+636,Jorge R. Gutierrez,$50.2,1,$50.2,The Book of Life,$50.2
+637,Will Finn,$50.0,1,$50.0,Home on the Range,$50.0
+638,Leslye Headland,$49.9,3,$16.6,About Last Night,$48.6
+639,Aaron McGruder,$49.9,1,$49.9,Red Tails,$49.9
+640,Steven Antin,$49.8,3,$16.6,Burlesque,$39.4
+641,Josh Singer,$48.3,2,$24.2,Spotlight,$45.1
+642,Billy Bob Thornton,$48.1,5,$9.6,Sling Blade,$24.4
+643,John Sullivan,$47.9,2,$23.9,2016 Obama's America,$33.4
+644,Geoffrey Fletcher,$47.6,2,$23.8,Precious,$47.6
+645,Oliver Stone,$47.4,1,$47.4,Savages,$47.4
+646,F. Scott Frazier,$47.2,2,$23.6,xXx 3,$44.9
+647,Richard Linklater,$46.9,5,$9.4,Boyhood,$25.4
+648,Cory Goodman,$46.8,2,$23.4,Priest,$29.1
+649,Tracy Letts,$46.8,3,$15.6,August: Osage County,$37.7
+650,Sarah Smith,$46.5,1,$46.5,Arthur Christmas,$46.5
+651,Will Beall,$46.0,1,$46.0,Gangster Squad,$46.0
+652,Robert B. Weide,$45.5,2,$22.7,The Giver,$45.1
+653,Michael Mitnick,$45.1,1,$45.1,The Giver,$45.1
+654,Michel Hazanavicius,$45.1,3,$15.0,The Artist,$44.7
+655,Jean-Pierre Jeunet,$44.7,6,$7.5,Amelie,$33.2
+656,Vince Vaughn,$44.7,1,$44.7,The Internship,$44.7
+657,Jeremy Brock,$44.5,5,$8.9,The Eagle,$19.5
+658,James Gray,$44.3,7,$6.3,We Own the Night,$28.6
+659,Sean McNamara,$44.2,2,$22.1,Soul Surfer,$43.9
+660,Chris Stokes,$44.0,3,$14.7,You Got Served,$40.4
+661,Michael De Luca,$43.8,2,$21.9,Freddy's Dead: The Final Nightmare,$34.9
+662,Shana Feste,$43.8,3,$14.6,Endless Love,$23.4
+663,"George Tillman, Jr.",$43.7,1,$43.7,Soul Food,$43.7
+664,George Gatins,$43.6,1,$43.6,Need for Speed,$43.6
+665,Steven Soderbergh,$43.6,6,$7.3,"sex, lies and videotape",$24.7
+666,Ric Roman Waugh,$42.9,1,$42.9,Snitch,$42.9
+667,Lorene Scafaria,$42.8,3,$14.3,Nick and Norah's Infinite Playlist,$31.5
+668,Salvador Paskowitz,$42.6,1,$42.6,The Age of Adaline,$42.6
+669,Neil LaBute,$42.0,6,$7.0,The Wicker Man,$23.6
+670,Karen Croner,$41.3,2,$20.6,One True Thing,$23.2
+671,Mike Leigh,$41.2,11,$3.7,Secrets & Lies,$13.4
+672,Nicole Holofcener,$40.6,6,$6.8,Enough Said,$17.6
+673,Neil Burger,$40.2,3,$13.4,The Illusionist,$39.9
+674,Simon Barrett,$39.6,3,$13.2,Blair Witch,$20.8
+675,Nick Cave,$39.3,2,$19.7,Lawless,$37.4
+676,Josh A. Cagan,$39.2,2,$19.6,The DUFF,$34.0
+677,Jennie Snyder,$39.0,1,$39.0,Something Borrowed,$39.0
+678,Henry Gayden,$38.9,1,$38.9,Earth to Echo,$38.9
+679,Jeff Wadlow,$38.8,2,$19.4,Kick-Ass 2,$28.8
+680,Kevin Reynolds,$38.8,3,$12.9,Red Dawn (1984),$38.4
+681,Chris D'Arienzo,$38.5,1,$38.5,Rock of Ages,$38.5
+682,Cedric the Entertainer,$38.2,1,$38.2,Orig. Kings of Comedy,$38.2
+683,Matthew Fogel,$37.9,1,$37.9,"Big Mommas: Like Father, Like Son",$37.9
+684,Brad Ingelsby,$37.8,2,$18.9,Run All Night,$26.5
+685,Steve Coogan,$37.7,1,$37.7,Philomena,$37.7
+686,Peter Landesman,$37.6,3,$12.5,Concussion (2015),$34.5
+687,Nick Frost,$37.4,1,$37.4,Paul,$37.4
+688,Sonny Mallhi,$37.3,1,$37.3,The Roommate,$37.3
+689,Arlene Gibbs,$37.3,1,$37.3,Jumping the Broom,$37.3
+690,Michael Diliberti,$37.1,1,$37.1,30 Minutes or Less,$37.1
+691,David Caspe,$36.9,1,$36.9,That's My Boy,$36.9
+692,Anthony McCarten,$36.3,3,$12.1,The Theory of Everything,$35.9
+693,Abi Morgan,$36.3,4,$9.1,The Iron Lady,$30.0
+694,Randy Brown,$35.8,1,$35.8,Trouble with the Curve,$35.8
+695,Tom Hanks,$35.6,1,$35.6,Larry Crowne,$35.6
+696,Barbara Curry,$35.4,1,$35.4,The Boy Next Door,$35.4
+697,Rob Zombie,$35.3,3,$11.8,Halloween II (2009),$33.4
+698,Tim Burton,$35.3,1,$35.3,Frankenweenie,$35.3
+699,Roberto Aguirre-Sacasa,$35.3,1,$35.3,Carrie,$35.3
+700,Jenny Mayer,$35.1,1,$35.1,Step Up Revolution,$35.1
+701,Don Macpherson,$35.0,4,$8.8,The Avengers (1998),$23.4
+702,Will Reiser,$35.0,1,$35.0,50/50,$35.0
+703,Jeff Nichols,$34.8,5,$7.0,Mud,$21.6
+704,David Feeney,$34.6,1,$34.6,Hot Pursuit,$34.6
+705,Patty Jenkins,$34.5,1,$34.5,Monster,$34.5
+706,Jonathan Tropper,$34.3,1,$34.3,This is Where I Leave You,$34.3
+707,Kirk Jones,$34.0,2,$17.0,Waking Ned Devine,$24.8
+708,Maria Maggenti,$33.8,4,$8.4,Monte Carlo,$23.2
+709,Daniel Barnz,$33.2,2,$16.6,Beastly,$27.9
+710,Jim Jarmusch,$32.6,12,$2.7,Broken Flowers,$13.7
+711,Nelson Greaves,$32.5,1,$32.5,Unfriended,$32.5
+712,Paul Greengrass,$32.3,2,$16.1,United 93,$31.5
+713,Martin Scorsese,$32.3,1,$32.3,The Age of Innocence,$32.3
+714,James Keach,$31.7,2,$15.9,Armed and Dangerous,$15.9
+715,Mark Romanek,$31.6,1,$31.6,One Hour Photo,$31.6
+716,Tom Tykwer,$31.3,2,$15.7,Cloud Atlas,$27.1
+717,Jessica Postigo,$31.2,1,$31.2,The Mortal Instruments,$31.2
+718,Derek Cianfrance,$31.1,2,$15.6,The Place Beyond the Pines,$21.4
+719,Gideon Defoe,$31.1,1,$31.1,The Pirates! Band of Misfits,$31.1
+720,Ken Scott,$31.0,2,$15.5,Delivery Man,$30.7
+721,Gavin O'Connor,$30.7,3,$10.2,Pride & Glory,$15.7
+722,Chris Kentis,$30.6,1,$30.6,Open Water,$30.6
+723,Oliver Parker,$30.5,4,$7.6,Ideal Husband,$18.5
+724,Brian Gatewood,$30.4,1,$30.4,The Sitter,$30.4
+725,Alessandro Tanaka,$30.4,1,$30.4,The Sitter,$30.4
+726,Zach Braff,$30.4,2,$15.2,Garden State,$26.8
+727,Emma Thompson,$29.4,2,$14.7,Nanny McPhee Returns,$29.0
+728,Don Hahn,$29.0,1,$29.0,Chimpanzee,$29.0
+729,Juan Carlos Fresnadillo,$28.9,2,$14.5,28 Weeks Later,$28.6
+730,Rajiv Joseph,$28.8,1,$28.8,Draft Day,$28.8
+731,Scott Rothman,$28.8,1,$28.8,Draft Day,$28.8
+732,Paul Schrader,$28.3,2,$14.2,Taxi Driver,$28.3
+733,David Nicholls,$28.3,5,$5.7,One Day,$13.8
+734,Whit Stillman,$28.3,6,$4.7,Love & Friendship,$14.0
+735,Michael Hoffman,$26.8,1,$26.8,The Best of Me,$26.8
+736,Julie Taymor,$26.6,3,$8.9,Across the Universe,$24.3
+737,Lisa Cholodenko,$26.4,3,$8.8,The Kids Are All Right,$20.8
+738,Liz Brixius,$26.4,1,$26.4,One For the Money,$26.4
+739,Karen Ray,$26.4,1,$26.4,One For the Money,$26.4
+740,Stacy Sherman,$26.4,1,$26.4,One For the Money,$26.4
+741,Tom Gormican,$26.1,1,$26.1,That Awkward Moment,$26.1
+742,Kerry Williamson,$25.9,1,$25.9,Alex Cross,$25.9
+743,Shawn Wayans,$25.7,1,$25.7,Dance Flick,$25.7
+744,Chris Rock,$25.3,1,$25.3,Top Five,$25.3
+745,Miles Chapman,$25.1,1,$25.1,Escape Plan,$25.1
+746,Gary McKendry,$25.1,1,$25.1,Killer Elite,$25.1
+747,Matt Sherring,$25.1,1,$25.1,Killer Elite,$25.1
+748,Bragi Schut,$24.8,1,$24.8,Season of the Witch,$24.8
+749,Erik White,$24.7,1,$24.7,Lottery Ticket,$24.7
+750,Abdul Williams,$24.7,1,$24.7,Lottery Ticket,$24.7
+751,Robbie Fox,$24.7,2,$12.3,Playing for Keeps,$13.1
+752,Joseph Gordon-Levitt,$24.5,1,$24.5,Don Jon,$24.5
+753,Hayao Miyazaki,$24.4,2,$12.2,The Secret World of Arrietty,$19.2
+754,Mara Brock Akil,$24.4,1,$24.4,Sparkle,$24.4
+755,Bridget O'Connor,$24.1,1,$24.1,"Tinker, Tailor, Soldier, Spy",$24.1
+756,Joshua Safran,$23.4,1,$23.4,Endless Love,$23.4
+757,April Blair,$23.2,1,$23.2,Monte Carlo,$23.2
+758,Kimberly Peirce,$22.5,2,$11.2,Boys Don't Cry,$11.5
+759,Jason Pagan,$22.3,1,$22.3,Project Almanac,$22.3
+760,Andrew Stark,$22.3,1,$22.3,Project Almanac,$22.3
+761,Ben Best,$21.8,2,$10.9,Your Highness,$21.6
+762,Danny McBride,$21.8,2,$10.9,Your Highness,$21.6
+763,Bibi Naceri,$21.6,2,$10.8,Brick Mansions,$20.4
+764,Simon Wells,$21.4,1,$21.4,Mars Needs Moms,$21.4
+765,Wash Westmoreland,$21.3,4,$5.3,Still Alice,$18.8
+766,Niki Caro,$20.8,1,$20.8,Whale Rider,$20.8
+767,Richard Glatzer,$20.7,3,$6.9,Still Alice,$18.8
+768,Jake Kasdan,$20.4,2,$10.2,Walk Hard...,$18.3
+769,Ed Harris,$20.2,1,$20.2,Appaloosa,$20.2
+770,Ernest R. Dickerson,$20.1,1,$20.1,Juice,$20.1
+771,Wayne Kramer,$20.1,4,$5.0,The Cooler,$8.3
+772,Brian Tucker,$19.7,1,$19.7,Broken City,$19.7
+773,David Bowers,$19.6,1,$19.6,Astro Boy,$19.6
+774,Andrew Dominik,$19.2,3,$6.4,Killing Them Softly,$15.0
+775,Julie Delpy,$19.0,4,$4.8,Before Midnight,$8.1
+776,Will Hayes,$18.9,1,$18.9,Shark Night 3D,$18.9
+777,Jesse Studenberg,$18.9,1,$18.9,Shark Night 3D,$18.9
+778,Pablo F. Fenjves,$18.6,1,$18.6,Man on a Ledge,$18.6
+779,Danny Boyle,$18.3,1,$18.3,127 Hours,$18.3
+780,Rob Hardy,$17.8,3,$5.9,The Gospel,$15.8
+781,Geoff LaTulippe,$17.8,1,$17.8,Going the Distance,$17.8
+782,Oren Moverman,$17.6,7,$2.5,The Quiet Ones,$8.5
+783,Michael J. Bassett,$17.5,1,$17.5,Silent Hill 2,$17.5
+784,Vincenzo Natali,$17.5,2,$8.8,Splice,$17.0
+785,Ernie Barbarash,$17.4,1,$17.4,Addicted,$17.4
+786,Christina Welsh,$17.4,1,$17.4,Addicted,$17.4
+787,J.C. Chandor,$17.4,3,$5.8,All Is Lost,$6.3
+788,Courtney Solomon,$16.3,1,$16.3,An American Haunting,$16.3
+789,Joshua Michael Stern,$16.3,1,$16.3,Swing Vote,$16.3
+790,Carl Franklin,$16.1,1,$16.1,Devil in a Blue Dress,$16.1
+791,Matt Whiteley,$16.1,1,$16.1,Jobs,$16.1
+792,Hannah Shakespeare,$16.0,2,$8.0,The Raven,$16.0
+793,Ben Livingston,$16.0,1,$16.0,The Raven,$16.0
+794,Werner Herzog,$15.9,8,$2.0,Rescue Dawn,$5.5
+795,Lindsay Devlin,$15.8,1,$15.8,Devil's Due,$15.8
+796,Jon Erwin,$15.8,2,$7.9,Moms' Night Out,$10.4
+797,Eli Roth,$15.7,2,$7.8,The Man with the Iron Fists,$15.6
+798,Gus Van Sant,$15.3,7,$2.2,My Own Private Idaho,$6.4
+799,Ed Gass-Donnelly,$15.2,2,$7.6,The Last Exorcism Part II,$15.2
+800,Michael Haneke,$15.1,7,$2.2,Amour,$6.7
+801,Alejandro Monteverde,$14.6,2,$7.3,Bella,$8.1
+802,Terrence Malick,$14.4,4,$3.6,The Tree of Life,$13.3
+803,Brin Hill,$14.2,2,$7.1,Battle of the Year,$8.9
+804,Gabrielle Allan,$14.0,1,$14.0,What's Your Number?,$14.0
+805,Jennifer Crittenden,$14.0,1,$14.0,What's Your Number?,$14.0
+806,Cliff Dorfman,$13.7,1,$13.7,Warrior,$13.7
+807,Anthony Tambakis,$13.7,1,$13.7,Warrior,$13.7
+808,Steve Adams,$13.6,2,$6.8,Envy,$13.6
+809,David Frankel,$13.4,2,$6.7,Funny About Love,$8.1
+810,Wong Kar Wai,$12.9,8,$1.6,The Grandmaster,$6.6
+811,Lucy Alibar,$12.8,1,$12.8,Beasts of the Southern Wild,$12.8
+812,Benh Zeitlin,$12.8,1,$12.8,Beasts of the Southern Wild,$12.8
+813,Laura Lau,$12.8,1,$12.8,Silent House,$12.8
+814,Morgan Spurlock,$12.6,4,$3.1,Super Size Me,$11.5
+815,Andrew Adamson,$12.5,2,$6.3,Cirque Du Soleil: Worlds Away,$12.5
+816,Jody Lambert,$12.4,1,$12.4,People Like Us,$12.4
+817,Mark Duplass,$12.1,6,$2.0,Cyrus,$7.5
+818,Jay Duplass,$12.1,5,$2.4,Cyrus,$7.5
+819,Eric Aronson,$12.1,2,$6.0,Mortdecai,$7.7
+820,Andrew Knauer,$12.1,1,$12.1,The Last Stand,$12.1
+821,Jason Schwartzman,$11.9,1,$11.9,The Darjeeling Limited,$11.9
+822,Michel Gondry,$11.7,6,$2.0,"Be Kind, Rewind",$11.2
+823,Kathryn Bigelow,$11.6,2,$5.8,Blue Steel,$8.2
+824,Andrea Gyertson Nasfell,$11.2,2,$5.6,Moms' Night Out,$10.4
+825,Dennis Lehane,$10.7,1,$10.7,The Drop,$10.7
+826,Pete Travis,$10.7,1,$10.7,The Gunman,$10.7
+827,Tom Ford,$10.7,1,$10.7,Nocturnal Animals,$10.7
+828,Alessandro Camon,$10.6,2,$5.3,Bullet to the Head,$9.5
+829,Sean Finegan,$10.5,1,$10.5,Getaway (2013),$10.5
+830,Gregg Maxwell Parker,$10.5,1,$10.5,Getaway (2013),$10.5
+831,Christian Alvart,$10.3,1,$10.3,Pandorum,$10.3
+832,Rod Lurie,$10.3,1,$10.3,Straw Dogs (2011),$10.3
+833,Anna Boden,$10.1,3,$3.4,It's Kind of a Funny Story,$6.4
+834,Ryan Fleck,$10.1,3,$3.4,It's Kind of a Funny Story,$6.4
+835,Max Werner,$9.4,1,$9.4,Fun Size,$9.4
+836,Todd Solondz,$9.3,7,$1.3,Welcome to the Dollhouse,$4.6
+837,Sylvain Chomet,$9.2,2,$4.6,The Triplets of Belleville,$7.0
+838,John Michael McDonagh,$9.0,3,$3.0,The Guard,$5.4
+839,Benson Lee,$8.9,1,$8.9,Battle of the Year,$8.9
+840,Ric Menello,$8.8,3,$2.9,Tougher Than Leather,$3.6
+841,Will Forte,$8.5,1,$8.5,MacGruber,$8.5
+842,Jorma Taccone,$8.5,1,$8.5,MacGruber,$8.5
+843,Adam Balsam,$8.5,1,$8.5,Legends of Oz: Dorothy's Return,$8.5
+844,Randi Barnes,$8.5,1,$8.5,Legends of Oz: Dorothy's Return,$8.5
+845,Jack Black,$8.3,1,$8.3,Tenacious D in: The Pick of Destiny,$8.3
+846,Leon Ichaso,$8.3,3,$2.8,El Cantante,$7.6
+847,Nicholas Jarecki,$8.2,2,$4.1,Arbitrage,$7.9
+848,Ethan Hawke,$8.1,1,$8.1,Before Midnight,$8.1
+849,Gene Wilder,$8.0,1,$8.0,Haunted Honeymoon,$8.0
+850,Kyle Ward,$8.0,1,$8.0,Machete Kills,$8.0
+851,Morgan Davis Foehl,$8.0,1,$8.0,Blackhat,$8.0
+852,Andrew Dodge,$7.8,1,$7.8,Bad Words,$7.8
+853,Kevin Hart,$7.7,1,$7.7,Kevin Hart: Laugh at My Pain,$7.7
+854,John Krasinski,$7.6,1,$7.6,Promised Land,$7.6
+855,Mike Mills,$7.1,2,$3.6,Beginners,$5.8
+856,Gareth Evans,$6.7,2,$3.4,The Raid: Redemption,$4.1
+857,Brad Anderson,$6.7,4,$1.7,"Next Stop, Wonderland",$3.4
+858,Greta Gerwig,$6.6,4,$1.6,Frances Ha,$4.1
+859,Debra Granik,$6.6,2,$3.3,Winter's Bone,$6.5
+860,Pepe Portillo,$6.5,1,$6.5,Little Boy,$6.5
+861,Davis Guggenheim,$6.4,1,$6.4,"Waiting for ""Superman""",$6.4
+862,Dan Sterling,$6.1,1,$6.1,The Interview (2014),$6.1
+863,Sngmoo Lee,$5.7,1,$5.7,The Warrior's Way,$5.7
+864,Miranda July,$5.6,3,$1.9,Me and You and Everyone We Know,$3.9
+865,Craig Johnson,$5.3,1,$5.3,The Skeleton Twins,$5.3
+866,Roger Donaldson,$5.1,1,$5.1,The World's Fastest Indian,$5.1
+867,John Cameron Mitchell,$5.1,2,$2.5,Hedwig and the Angry Inch,$3.1
+868,Todd Lincoln,$4.9,1,$4.9,The Apparition,$4.9
+869,Lone Scherfig,$4.8,2,$2.4,Italian for Beginners,$4.5
+870,John Wells,$4.4,1,$4.4,The Company Men,$4.4
+871,Jay Baruchel,$4.2,1,$4.2,Goon,$4.2
+872,Steve McQueen (II),$4.1,2,$2.0,Shame,$3.9
+873,Brit Marling,$4.0,3,$1.3,The East,$2.3
+874,Tod Williams,$4.0,2,$2.0,The Door in the Floor,$3.9
+875,Warren Beatty,$3.7,1,$3.7,Rules Don't Apply,$3.7
+876,Adam J. Braff,$3.6,1,$3.6,Wish I Was Here,$3.6
+877,Michael Dowse,$3.6,2,$1.8,The Grand Seduction,$3.4
+878,Lake Bell,$3.2,2,$1.6,In a World,$3.0
+879,Jeremy Saulnier,$3.2,1,$3.2,Green Room,$3.2
+880,Gillian Robespierre,$3.1,1,$3.1,Obvious Child,$3.1
+881,Rashida Jones,$3.1,1,$3.1,Celeste and Jesse Forever,$3.1
+882,Glenn Close,$3.0,1,$3.0,Albert Nobbs,$3.0
+883,Vincent Gallo,$2.7,2,$1.4,Buffalo '66,$2.4
+884,Magaret Nagle,$2.7,1,$2.7,The Good Lie,$2.7
+885,Zal Batmanglij,$2.7,2,$1.4,The East,$2.3
+886,Yasmina Reza,$2.5,1,$2.5,Carnage (2011),$2.5
+887,David Michod,$2.5,3,$847k,The Rover,$1.1
+888,Zoe Kazan,$2.5,1,$2.5,Ruby Sparks,$2.5
+889,Nick Swardson,$2.5,1,$2.5,Bucky Larson,$2.5
+890,Tommy Lee Jones,$2.4,1,$2.4,The Homesman,$2.4
+891,Denis Villeneuve,$2.3,2,$1.2,Incendies (U.S. only),$2.1
+892,Eran Creevy,$2.3,2,$1.1,Collide,$2.3
+893,Lynne Ramsay,$2.2,3,$741k,We Need to Talk About Kevin,$1.7
+894,Tom DiCillo,$2.2,5,$431k,Living in Oblivion,$1.1
+895,Joseph Cedar,$2.1,3,$715k,Footnote,$2.0
+896,Lynn Shelton,$2.1,4,$522k,Your Sister's Sister,$1.6
+897,Gregg Araki,$2.0,6,$340k,Mysterious Skin,$713k
+898,Philippe Falardeau,$2.0,1,$2.0,Monsieur Lazhar (U.S.-only),$2.0
+899,Timur Bekmambetov,$2.0,2,$977k,Night Watch (Nochnoi Dozor),$1.5
+900,Rory Kinnear,$1.7,1,$1.7,We Need to Talk About Kevin,$1.7
+901,Marc Abraham,$1.6,1,$1.6,I Saw the Light,$1.6
+902,George Hickenlooper,$1.6,3,$540k,Hearts of Darkness,$1.3
+903,Sarah Polley,$1.6,1,$1.6,Stories We Tell,$1.6
+904,David Gordon Green,$1.5,5,$310k,All the Real Girls,$550k
+905,Charles Ferguson,$1.4,1,$1.4,No End in Sight,$1.4
+906,Ole Bornedal,$1.4,3,$475k,Nightwatch,$1.2
+907,Kelly Reichardt,$1.4,4,$351k,Wendy and Lucy,$866k
+908,Mike Cahill,$1.3,1,$1.3,Another Earth,$1.3
+909,Will Packer,$1.2,1,$1.2,Trois,$1.2
+910,Michael Cuesta,$1.1,2,$573k,L.I.E.,$1.1
+911,Atom Egoyan,$1.1,1,$1.1,The Captive,$1.1
+912,Andrea Seigel,$1.1,1,$1.1,Laggies,$1.1
+913,Jim Wilson,$1.1,1,$1.1,50 to 1,$1.1
+914,Nanette Burstein,$942k,1,$942k,American Teen,$942k
+915,Gregory Jacobs,$929k,1,$929k,Criminal,$929k
+916,Nicolas Winding Refn,$915k,3,$305k,Only God Forgives,$779k
+917,Azazel Jacobs,$756k,2,$378k,Terri,$656k
+918,Finn Taylor,$735k,3,$245k,Dream with the Fishes,$544k
+919,Leonardo DiCaprio,$707k,1,$707k,The 11th Hour,$707k
+920,Lee Daniels,$693k,1,$693k,The Paperboy,$693k
+921,Jacob Aaron Estes,$668k,2,$334k,Mean Creek,$604k
+922,Sebastián Silva,$656k,2,$328k,The Maid,$577k
+923,Mark S. Waters,$626k,1,$626k,House of Yes,$626k
+924,David Chase,$611k,1,$611k,Not Fade Away,$611k
+925,Ned Benson,$588k,1,$588k,The Disappearance of Eleanor Rigby,$588k
+926,Madonna,$583k,1,$583k,W.E.,$583k
+927,Natalie Portman,$572k,1,$572k,A Tale of Love and Darkness,$572k
+928,Neil Jordan,$550k,1,$550k,Ondine,$550k
+929,Josh Radnor,$543k,2,$272k,Liberal Arts,$327k
+930,Larry Charles,$534k,1,$534k,Masked and Anonymous,$534k
+931,Joe Swanberg,$521k,5,$104k,Drinking Buddies,$343k
+932,Bobcat Goldthwait,$475k,4,$119k,World's Greatest Dad,$222k
+933,James Ponsoldt,$401k,2,$201k,Smashed,$377k
+934,David Duchovny,$389k,1,$389k,House of D,$389k
+935,Spencer Susser,$383k,1,$383k,Hesher,$383k
+936,Gary Hawkins,$373k,1,$373k,Joe,$373k
+937,Ava DuVernay,$373k,2,$186k,Middle of Nowhere (2012),$237k
+938,Ti West,$348k,6,$58.1k,The House of the Devil,$101k
+939,Spike Lee,$339k,1,$339k,Red Hook Summer,$339k
+940,Anthony Russo,$337k,1,$337k,Welcome to Collinwood,$337k
+941,Joe Russo,$337k,1,$337k,Welcome to Collinwood,$337k
+942,Jose Padilha,$326k,3,$109k,Bus 174,$217k
+943,Josh Sternfeld,$319k,1,$319k,Winter Solstice,$319k
+944,Angelina Jolie,$304k,1,$304k,In the Land of Blood and Honey,$304k
+945,Casey Affleck,$255k,1,$255k,Gerry,$255k
+946,Demetri Martin,$255k,1,$255k,Dean,$255k
+947,Jesse Peretz,$245k,2,$123k,The Chateau,$202k
+948,Gareth Edwards,$237k,1,$237k,Monsters,$237k
+949,Nimród Antal,$237k,1,$237k,Kontroll,$237k
+950,Alex Ross Perry,$219k,2,$110k,Listen Up Philip,$200k
+951,John Curran,$217k,1,$217k,The Killer Inside Me,$217k
+952,Jee-woon Kim,$201k,2,$101k,"The Good, the Bad, the Weird",$128k
+953,Edward Burns,$184k,3,$61.3k,The Groomsmen,$129k
+954,Keith Bunin,$174k,1,$174k,Horns,$174k
+955,Michael Moore,$149k,1,$149k,Michael Moore In TrumpLand,$149k
+956,Luke Wilson,$127k,1,$127k,The Wendell Baker Story,$127k
+957,Jake Johnson,$119k,1,$119k,Digging for Fire,$119k
+958,Rob Reiner,$102k,1,$102k,The Magic of Belle Isle,$102k
+959,Chris Gorak,$65.0k,1,$65.0k,Right at Your Door,$65.0k
+960,Steven Brill,$59.2k,1,$59.2k,Walk of Shame,$59.2k
+961,William H. Macy,$58.3k,1,$58.3k,Rudderless,$58.3k
+962,James Franco,$56.0k,2,$28.0k,Child of God,$39.3k
+963,Rodrigo Cortes,$53.0k,2,$26.5k,Red Lights (2012),$52.6k
+964,Asger Leth,$48.8k,1,$48.8k,Ghosts of Cite Soleil,$48.8k
+965,Goro Miyazaki,$48.5k,1,$48.5k,Tales from Earthsea,$48.5k
+966,John Schultz,$44.5k,1,$44.5k,Bandwagon,$44.5k
+967,Melanie Laurent,$42.3k,1,$42.3k,Breathe,$42.3k
+968,Jay Chandrasekhar,$41.6k,1,$41.6k,The Slammin' Salmon,$41.6k
+969,John Gray,$31.1k,1,$31.1k,White Irish Drinkers,$31.1k
+970,Lonzo Nzekwe,$15.8k,1,$15.8k,Anchor Baby,$15.8k
+971,Joseph Schneider,$15.0k,1,$15.0k,I'm Not Jesus Mommy,$15.0k
+972,Stewart Wade,$13.9k,2,$6.9k,Tru Loved,$9.5k
+973,Rupert Wyatt,$13.4k,1,$13.4k,The Escapist,$13.4k
+974,Ryan Piers Williams,$11.8k,1,$11.8k,The Dry Land,$11.8k
+975,Anthony Hopkins,$9.0k,1,$9.0k,Slipstream,$9.0k
+976,James Watkins,$7.3k,1,$7.3k,Eden Lake,$7.3k
+977,Famke Janssen,$5.0k,1,$5.0k,Bringing Up Bobby,$5.0k
+978,Amy Heckerling,$3.4k,1,$3.4k,Vamps,$3.4k
+979,Catherine Hardwicke,$3.1k,1,$3.1k,Plush,$3.1k
