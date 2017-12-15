@@ -28,6 +28,14 @@ Finally, we can sort these predicted ratings from greatest to least and recommen
 
 LSH w/ Cosine Similarity:
 
+Here we implement the KNN based models, but using only the approximate nearest neighbors.
+We used two different variations of KNN i.e., KNN Basic, KNN Baseline. We refer to the following paper for cosine similarity hashing
+(http://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf) and 
+implimentation from the github repository (https://github.com/marufaytekin/lsh-spark).
+We implemented the Sim Hash for the users using pyspark as demonstrated below. 
+1) create a random vector of size number of movies having values -1,1 (using a normal distribution) 
+2) calculate dot product of the random vector and the item rating vector of the user, if the dot product is >0 output 1 else output 0 
+3) repeat steps 1 and 2 for b bands and r rows 
 
 
 ### ***Please note the files mentioned below are within the "recommender_system\project_part2" directory.**
@@ -38,6 +46,9 @@ Notebook: Report.ipynb
 
 Content-Based Model
 -------------------
+
+crawler.ipynb: IMDB data crawler for all the movies in the data
+
 BoxOfficeMojoScraper.py: A web scraper written to extract a list of top grossing actors and directors to create our item/user feature space.
 
 imdb_api_connection.py: IMDbPY API to extract genre, cast, director, and rating information for each movie in our dataset.
@@ -55,7 +66,20 @@ test_content_model.py: The source code to test the content-based model on tune o
 LSH w/ Cosine Similarity
 ------------------------
 
+index matching.ipynb: The source code to modify the movie indices from the movie lens data to new linear indices
+data_split.ipynb: The source code to split the data into folds
+data_with_bias.ipynb: The source code to convert the data to be used for the knnbaseline model
 
+bias_values.ipynb: The source code the baseline only approach
+
+complete_run.py: The source code to run the data for all band(b) and row(r) values and calculate similarities
+read_br_results.ipynb: The source code to read the output from the complete_run.py
+
+cross_validate.py: The source code to vary the k in knn models and run 4 fold cross validation on the data for given b and r values
+
+final_run.py: The source code to run the model on the final train set and test set for the knnbasic model
+
+final_run_baseline.py: The source code to run the model on the final train set and test set for the knnbaseline model
 
 Datasets
 --------
@@ -71,6 +95,13 @@ Results
 
 Content_Model_Testing_Results.csv: A file detailing the RMSE, Precision, and Recall for each iteration of tests we conducted.
 
+final_test.csv: Final testing data in csv containg the true ratings
+test_prediction.csv: A csv file of the prediction from the baseline-only model
+final_predictions.dat: A pickle dump file of the final predictions from the knnbasic model
+final_predictions_baseline.dat: A pickle dump file of the final predictions from the knnbaseline model
+
 Plots
 -----
 
+user_data_plot.ipynb : Code to generate the distribuition of user data for sample 10 users
+rmse.ipynb : Code to generate all the plots for the baseline model, knnbasic model and knnbaseline model
