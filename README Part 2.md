@@ -70,12 +70,12 @@ index matching.ipynb: The source code to modify the movie indices from the movie
 data_split.ipynb: The source code to split the data into folds
 data_with_bias.ipynb: The source code to convert the data to be used for the knnbaseline model
 
-bias_values.ipynb: The source code the baseline only approach
+bias_values.ipynb: The source code for the baseline only approach
 
 complete_run.py: The source code to run the data for all band(b) and row(r) values and calculate similarities
 read_br_results.ipynb: The source code to read the output from the complete_run.py
 
-cross_validate.py: The source code to vary the k in knn models and run 4 fold cross validation on the data for given b and r values
+cross_validate.py: The source code to vary the k nearest neighbors in knn models and run 4 fold cross validation on the data for given b and r values
 
 final_run.py: The source code to run the model on the final train set and test set for the knnbasic model
 
