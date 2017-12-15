@@ -32,7 +32,7 @@ for genre in genre_list:
 
 for l in open("top_actors_list.csv").readlines()[1:]:
     actor = l.strip().split(',')[1]
-    feature_list.append(("actor", actor))
+    feature_list.append(("cast", actor))
 
 for l in open("top_directors_list.csv").readlines()[1:]:
     director = l.strip().split(',')[1]

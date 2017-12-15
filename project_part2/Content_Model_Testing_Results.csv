@@ -1,0 +1,9 @@
+Weights,Similarity Metric,RMSE,Precision,Recall
+None,Random,1.841921853,0.278281213,0.036211216
+Equal Weight,Cosine Similarity,1.226028945,0.867978887,0.014311193
+Equal Weight,Pearson Correlation,1.225973025,0.867466226,0.014831074
+2-1-1-2,Cosine Similarity,1.228766987,0.773302622,0.016975587
+2-1-1-2,Pearson Correlation,1.228641682,0.772551681,0.017452146
+1-2-2-1,Cosine Similarity,1.231056249,0.958987097,0.013199223
+1-2-2-1,Pearson Correlation,1.231057464,0.958459994,0.013726326
+1-5-5-1,Cosine Similarity,,,
