@@ -7,8 +7,6 @@ anaconda=custom=py27_0
 anaconda-client=1.6.3=py27_0
 anaconda-navigator=1.6.2=py27_0
 anaconda-project=0.6.0=py27_0
-appnope=0.1.0=py27_0
-appscript=1.0.1=py27_0
 asn1crypto=0.22.0=py27_0
 astroid=1.4.9=py27_0
 astropy=1.3.2=np112py27_0
@@ -82,7 +80,6 @@ jupyter_core=4.3.0=py27_0
 lazy-object-proxy=1.2.2=py27_0
 libiconv=1.14=0
 libpng=1.6.27=0
-libtiff=4.0.6=3
 libxml2=2.9.4=0
 libxslt=1.1.29=0
 llvmlite=0.18.0=py27_0
@@ -128,7 +125,6 @@ prompt_toolkit=1.0.14=py27_0
 psutil=5.2.2=py27_0
 ptyprocess=0.5.1=py27_0
 py=1.4.33=py27_0
-pyaudio=0.2.7=py27_0
 pycosat=0.6.2=py27_0
 pycparser=2.17=py27_0
 pycrypto=2.6.1=py27_6
@@ -140,16 +136,16 @@ pyodbc=4.0.16=py27_0
 pyopenssl=17.0.0=py27_0
 pyparsing=2.1.4=py27_0
 pyqt=5.6.0=py27_1
+py4j=0.10.6=py27_0 
+pyspark=2.2.0=py27_0
 pytables=3.3.0=np112py27_0
 pytest=3.0.7=py27_0
 python=2.7.13=0
 python-dateutil=2.6.0=py27_0
-python.app=1.2=py27_4
 pytz=2017.2=py27_0
 pywavelets=0.5.2=np112py27_0
 pyyaml=3.12=py27_0
 pyzmq=16.0.2=py27_0
-qt=5.6.2=2
 qtawesome=0.4.4=py27_0
 qtconsole=4.3.0=py27_0
 qtpy=1.2.1=py27_0
@@ -195,7 +191,6 @@ widgetsnbextension=2.0.0=py27_0
 wrapt=1.10.10=py27_0
 xlrd=1.0.0=py27_0
 xlsxwriter=0.9.6=py27_0
-xlwings=0.10.4=py27_0
 xlwt=1.2.0=py27_0
 xz=5.2.2=1
 yaml=0.1.6=0
