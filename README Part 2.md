@@ -28,7 +28,6 @@ Finally, we can sort these predicted ratings from greatest to least and recommen
 
 
 LSH w/ Cosine Similarity:
-
 Here we implement the KNN based models, but using only the approximate nearest neighbors.
 We used two different variations of KNN i.e., KNN Basic, KNN Baseline. We refer to the following paper for cosine similarity hashing
 (http://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf) and
